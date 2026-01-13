@@ -23,7 +23,7 @@ the amount of " # " before each line denotes information hierarchy.
 
 - # denotes the title of the folder this file lives in.
 
-- ## denotes a sub title, often used before lists or new paragraph sections. 3 empty lines must come before and after every sub title's section.
+- ## denotes a sub title section, often used before lists or new paragraph sections. 3 empty lines of space should come before the " ## ", and 3 empty lines should come after the whole sub section.
 
 - ### denotes a comment, example, or clarification. sometimes a short ### like one - five words ### clarification may be in line.
 

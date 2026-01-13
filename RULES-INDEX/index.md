@@ -9,3 +9,5 @@ under each page title will be a comment that briefly describes what the page is 
 
 - RULES-INDEX 
 ### a list of all the pages of rules and guidelines available for THAUMWORLD 
+- STATs-n-BONUSes
+### what makes a character
