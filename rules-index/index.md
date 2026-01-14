@@ -30,7 +30,7 @@ they are listed under the extact keyword that titles their folder and index.md f
 
 - result-rolls 
 [result-rolls](https://www.thaumworld.xyz/result-rolls/)
-< https://www.thaumworld.xyz/result-rolls/
+<https://www.thaumworld.xyz/result-rolls/>
 > how to tell the result of something
 
 - potency-rolls
