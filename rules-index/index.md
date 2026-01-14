@@ -58,3 +58,18 @@ they are listed under the extact keyword that titles their folder and index.md f
 > the end of a CHARACTER
 <https://www.thaumworld.xyz/death/>
 
+- tiles-n-occupied
+[tiles-n-occupied](https://www.thaumworld.xyz/tiles-n-occupied/)
+> the world as a grid of voxels
+<https://www.thaumworld.xyz/tiles-n-occupied/>
+
+- movement
+[movement](https://www.thaumworld.xyz/movement/)
+> an action type, and how you get around
+<https://www.thaumworld.xyz/movement/>
+
+- world-tiles
+[world-tiles](https://www.thaumworld.xyz/world-tiles/)
+> like tiles but for moving around large regions instead of tight spaces
+<https://www.thaumworld.xyz/world-tiles/>
+
