@@ -1,4 +1,4 @@
-# vigor
+﻿# vigor
 > on a scale of negative 1 to infinity how alive are you?
 
 VIGOR has a CURRENT, MAX, and MAGNITUDE.
@@ -8,7 +8,7 @@ and push your body to its limits with certain PERKS.
 
 the quantity of CURRENT VIGOR is spent.
 
-the quality of a CHARACTER�s VIGOR
+the quality of a CHARACTER’s VIGOR
 is their VIGOR MAG.
 
 the MAG dictates the ROLL using the MAG DICE chart.

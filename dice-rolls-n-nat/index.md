@@ -1,4 +1,4 @@
-# dice-rolls-n-nat
+﻿# dice-rolls-n-nat
 > defining uncenrtainty
 
 the DICE used are for ROLLS are :

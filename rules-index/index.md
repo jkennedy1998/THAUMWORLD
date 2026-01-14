@@ -1,4 +1,4 @@
-# rules-index
+﻿# rules-index
 > a list of all the pages of rules and guidelines available for THAUMWORLD
 
 they are listed under the extact keyword that titles their folder and index.md file.

@@ -1,4 +1,4 @@
-# stats-n-bonuses
+﻿# stats-n-bonuses
 > what makes a character
 
 STATS, or STATISTICS, are the building blocks of a CHARACTER.

@@ -1,4 +1,4 @@
-# challenge-peak-n-blunder-ratings
+﻿# challenge-peak-n-blunder-ratings
 > extraordinary success and failure of result rolls
 
 CHALLENGE RATINGS are a measure of how hard it is to do an ACTION.
