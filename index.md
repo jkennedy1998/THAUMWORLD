@@ -6,12 +6,8 @@ All rules pages are written to be read non-linearly and searched by keyword unde
 they are written as an index.md file within that folder.
 the RULES-INDEX file acts as an index for all the rules pages available for THAUMWORLD.
 
-[RULES-INDEX](https://www.thaumworld.xyz/RULES-INDEX/)
-`https://www.thaumworld.xyz/RULES-INDEX/`
-
-`https://www.thaumworld.xyz/RULES-INDEX/`
-
-<https://www.thaumworld.xyz/RULES-INDEX/>
+[RULES-INDEX](https://www.thaumworld.xyz/rules-index/)
+<https://www.thaumworld.xyz/rules-index/>
 
 
 > this allows for parsing of only certain rules pages by software as well as easy human navigation.
