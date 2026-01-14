@@ -1,21 +1,25 @@
-plain text
+
+
 # one hash
 ## two hash
 ### three hash
 #### four hash
+plain text
 ##### five hash
 ###### six hash
 
 
 
 # THAUMWORLD RULES STYLE & STRUCTURE
-### how files are written for man and machine
+###### how files are written for man and machine
 
 This section defines the mandatory formatting for THAUMWORLD's index.md files.
-All rules pages ### index.md files ### are written to be read non-linearly and searched by keyword.
+All rules pages 
+###### index.md files  
+are written to be read non-linearly and searched by keyword.
 Each rules page is defined by an index.md file located in its own folder.
 see the RULES-INDEX
-### this is going to make things suuuper legible and easy to access with digital tools.
+###### this is going to make things suuuper legible and easy to access with digital tools.
 
 
 
@@ -35,7 +39,7 @@ the amount of " # " before each line denotes information hierarchy.
 
 - ## denotes a sub title section, often used before lists or new paragraph sections. 3 empty lines of space should come before the " ## ", and 3 empty lines should come after the whole sub section.
 
-- ### denotes a comment, example, or clarification. sometimes a short ### like one - five words ### clarification may be in line.
+- ###### denotes a comment, example, or clarification
 
 
 
@@ -65,10 +69,10 @@ the quotation mark is really just to add clarity to this file but show up in com
 ## special markings
 
 " [ TAGNAME ] " denotes a TAG of the name, " TAGNAME ".
-### as defined by the TAG page as well
+###### as defined by the TAG page as well
 
 " : " means something has a relevant piece of information carried with it. 
-### the challenge rating of a result roll, the caster of a charm spell's tag, when you want the reader to know to keep track of something 
+###### the challenge rating of a result roll, the caster of a charm spell's tag, when you want the reader to know to keep track of something 
 
 " ( name ) " is the formatted way of using parenthesis with spaces on each inner padding, used across multiple rules when nesting improves clarity.
 
