@@ -1,7 +1,8 @@
 # STATs-n-BONUSes
 > what makes a character
 
-STATS ### short for " statistics " ### are the building blocks of a CHARACTER.
+STATS, or STATISTICS, are the building blocks of a CHARACTER.
+
 they define the strengths you contribute to your party, and the weaknesses that weigh you down.
 
 a BONUS is a numeric modifier that is derrived from a STAT.
@@ -20,7 +21,7 @@ The STAT-BONUS is calculated as:
 
 
 
-## STAT-BONUS reference examples
+### STAT-BONUS reference examples
 
 - STAT 48 or 49 : -1
 - STAT 50 or 51 : +0
