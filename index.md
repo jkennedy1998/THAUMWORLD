@@ -4,9 +4,11 @@
 ## two hash
 ### three hash
 #### four hash
-plain text
 ##### five hash
+plain text
 ###### six hash
+
+> blahblahblah
 
 
 
@@ -31,28 +33,28 @@ multi word key words use dashes without spaces. PARTIAL-ACTION, SPELL-CASTING, S
 
 
 ## what a " # " means
-the amount of " # " before each line denotes information hierarchy.
+the # count in line triggers markdown formatting and has specific meaning in THAUMWORLD rules files.
 
-- no use of any " # "'s denote rules text. this is the basis of these documents. 
+no use of any " # "'s denote rules text. this is the basis of these documents. 
 
-- # denotes the title of the folder this file lives in.
+# denotes the title of the folder this file lives in.
 
-- ## denotes a sub title section, often used before lists or new paragraph sections. 3 empty lines of space should come before the " ## ", and 3 empty lines should come after the whole sub section.
+## denotes a sub title section, often used before lists or new paragraph sections. 3 empty lines of space should come before the " ## ", and 3 empty lines should come after the whole sub section.
 
-- ###### denotes a comment, example, or clarification
+###### denotes a comment, example, or clarification
 
 
 
 ## how to format lists
 when making lists use the " - " as follows. 
-multiple " - " should be used rarely but denote multiple list depths.
+" - " with four spaces for each level can denote depth. this should be used rarely.
 
 ## list title here
 - list item 1
 - list item 2
 - list item 3
--- list item 3 a 
--- list item 3 b
+    - list item 3 a 
+    - list item 3 b
 
 
 
