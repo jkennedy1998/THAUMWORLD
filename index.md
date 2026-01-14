@@ -7,7 +7,7 @@ they are written as an index.md file within that folder.
 the RULES-INDEX file acts as an index for all the rules pages available for THAUMWORLD.
 > this allows for parsing of only certain rules pages by software as well as easy human navigation.
 
-<!-- x -->
+
 
 ## capitol letters
 capitol letters mark keywords. ACTION, ROLL, HEALTH, ect. 
@@ -17,7 +17,6 @@ each keyword has a page.
 multi word key words use dashes without spaces. PARTIAL-ACTION, SPELL-CASTING, STATS-n-BONUSES
 
 
-<!-- test -->
 
 ## the power / standardization of " # " and markdown
 the # count in line triggers markdown formatting and has specific meaning in THAUMWORLD rules files.
@@ -25,13 +24,13 @@ the # count in line triggers markdown formatting and has specific meaning in THA
 
 # a single " # "denotes the title of the folder this file lives in.
 
-## two " ## " denote a sub title section, often used before lists or new paragraph sections. " <!--  --> " separates these sections' beginings and ends.
+## two " ## " denote a sub title section, often used before lists or new paragraph sections. " 
 
 no use of any " # "'s denote rules and general text. this is the basis of these documents. 
 
 > " > " denotes a comment, example, or clarification
 
-<!--  -->
+
 
 ## how to format lists
 when making lists use the " - " as follows. 
@@ -44,7 +43,7 @@ when making lists use the " - " as follows.
     - list item 3 a 
     - list item 3 b
 
-<!-- spacer -->
+
 
 ## visual clarity of the " " " and the " ( ... ) "
 
@@ -54,7 +53,7 @@ dashes or hashes dont need padding between alike characters.
 
 the quotation mark is really just to add clarity to this file but show up in comments too.
 
-<!-- spacer -->
+
 
 ## special markings
 
