@@ -1,3 +1,13 @@
+plain text
+# one hash
+## two hash
+### three hash
+#### four hash
+##### five hash
+###### six hash
+
+
+
 # THAUMWORLD RULES STYLE & STRUCTURE
 ### how files are written for man and machine
 
