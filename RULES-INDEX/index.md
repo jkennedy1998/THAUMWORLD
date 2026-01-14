@@ -19,8 +19,14 @@ they are listed under the extact keyword that titles their folder and index.md f
 > what makes a character
 
 - dice-rolls-n-nat
-- [dice-rolls-n-nat](https://www.thaumworld.xyz/dice-rolls-n-nat/)
-- <https://www.thaumworld.xyz/dice-rolls-n-nat/>
+[dice-rolls-n-nat](https://www.thaumworld.xyz/dice-rolls-n-nat/)
+<https://www.thaumworld.xyz/dice-rolls-n-nat/>
 > defining uncertainty
+
+- challenge-peak-n-blunder-ratings
+[challenge-peak-n-blunder-ratings](https://www.thaumworld.xyz/challenge-peak-n-blunder-ratings/)
+<https://www.thaumworld.xyz/challenge-peak-n-blunder-ratings/>
+> extraordinary success and failure of result rolls
+
 
 
