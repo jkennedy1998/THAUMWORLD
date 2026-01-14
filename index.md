@@ -1,12 +1,3 @@
-# one hash
-## two hash
-### three hash
-#### four hash
-##### five hash
-plain text
-> blahblahblah
-###### six hash
-
 # THAUMWORLD RULES STYLE & STRUCTURE
 > how files are written for man and machine
 
@@ -22,8 +13,11 @@ see the RULES-INDEX
 
 ## capitol letters
 capitol letters mark keywords. ACTION, ROLL, HEALTH, ect. 
+
 each keyword has a page.
+
 multi word key words use dashes without spaces. PARTIAL-ACTION, SPELL-CASTING, STATS-n-BONUSES
+
 
 
 
@@ -37,7 +31,8 @@ the # count in line triggers markdown formatting and has specific meaning in THA
 
 no use of any " # "'s denote rules and general text. this is the basis of these documents. 
 
-> denotes a comment, example, or clarification
+> " > " denotes a comment, example, or clarification
+
 
 
 ## how to format lists
@@ -66,10 +61,10 @@ the quotation mark is really just to add clarity to this file but show up in com
 ## special markings
 
 " [ TAGNAME ] " denotes a TAG of the name, " TAGNAME ".
-###### as defined by the TAG page as well
+> as defined by the TAG page as well
 
 " : " means something has a relevant piece of information carried with it. 
-###### the challenge rating of a result roll, the caster of a charm spell's tag, when you want the reader to know to keep track of something 
+> the challenge rating of a result roll, the caster of a charm spell's tag, when you want the reader to know to keep track of something 
 
 " ( name ) " is the formatted way of using parenthesis with spaces on each inner padding, used across multiple rules when nesting improves clarity.
 

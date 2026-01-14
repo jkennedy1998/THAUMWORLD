@@ -1,5 +1,5 @@
 # STATs-n-BONUSes
-### what makes a character
+> what makes a character
 
 STATS ### short for " statistics " ### are the building blocks of a CHARACTER.
 they define the strengths you contribute to your party, and the weaknesses that weigh you down.
