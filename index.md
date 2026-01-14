@@ -5,6 +5,7 @@ This section defines the mandatory formatting for THAUMWORLD's index.md files.
 All rules pages are written to be read non-linearly and searched by keyword under their own folder name. 
 they are written as an index.md file within that folder.
 the RULES-INDEX file acts as an index for all the rules pages available for THAUMWORLD.
+> https://jkennedy1998.github.io/THAUMWORLD/RULES-INDEX 
 > this allows for parsing of only certain rules pages by software as well as easy human navigation.
 
 
