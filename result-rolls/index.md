@@ -1,8 +1,8 @@
-# result-rolls
+﻿# result-rolls
 > how to tell the result of something
 
 RESULT ROLLs always use a D20.
-they represent a CHARACTER�s attempt at an ACTION that might fail.
+they represent a CHARACTER’s attempt at an ACTION that might fail.
 
 > aiming and firing a bow
 > climbing a slippery wall
