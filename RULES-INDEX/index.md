@@ -38,5 +38,10 @@ they are listed under the extact keyword that titles their folder and index.md f
 <https://www.thaumworld.xyz/potency-rolls/>
 > how to tell how potent or powerful something is
 
+- vigor 
+[vigor](https://www.thaumworld.xyz/vigor/)
+<https://www.thaumworld.xyz/vigor/>
+> on a scale of negative 1 to infinity how alive are you?
+
 
 
