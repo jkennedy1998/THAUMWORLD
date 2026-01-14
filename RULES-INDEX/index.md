@@ -1,4 +1,4 @@
-# RULES-INDEX
+# rules-index
 > a list of all the pages of rules and guidelines available for THAUMWORLD
 
 they are listed under the extact keyword that titles their folder and index.md file.
@@ -8,13 +8,19 @@ they are listed under the extact keyword that titles their folder and index.md f
 ## INDEX
 > in order of general importance
 
-- RULES-INDEX 
-[RULES-INDEX](https://www.thaumworld.xyz/rules-index/)
-> a list of all the pages of rules and guidelines available for THAUMWORLD. this is the current page 
+- rules-index 
+[rules-index](https://www.thaumworld.xyz/rules-index/)
 <https://www.thaumworld.xyz/rules-index/>
+> a list of all the pages of rules and guidelines available for THAUMWORLD. this is the current page 
 
-
-- STATs-n-BONUSes
-[STATs-n-BONUSes](https://www.thaumworld.xyz/stats-n-bonuses/)
-> what makes a character
+- stats-n-bonuses
+[stats-n-bonuses](https://www.thaumworld.xyz/stats-n-bonuses/)
 <https://www.thaumworld.xyz/stats-n-bonuses/>
+> what makes a character
+
+- dice-rolls-n-nat
+- [dice-rolls-n-nat](https://www.thaumworld.xyz/dice-rolls-n-nat/)
+- <https://www.thaumworld.xyz/dice-rolls-n-nat/>
+> defining uncertainty
+
+
