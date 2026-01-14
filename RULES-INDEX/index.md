@@ -28,5 +28,15 @@ they are listed under the extact keyword that titles their folder and index.md f
 <https://www.thaumworld.xyz/challenge-peak-n-blunder-ratings/>
 > extraordinary success and failure of result rolls
 
+- result-rolls 
+[result-rolls](https://www.thaumworld.xyz/result-rolls/)
+< https://www.thaumworld.xyz/result-rolls/
+> how to tell the result of something
+
+- potency-rolls
+[potency-rolls](https://www.thaumworld.xyz/potency-rolls/)
+<https://www.thaumworld.xyz/potency-rolls/>
+> how to tell how potent or powerful something is
+
 
 
