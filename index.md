@@ -1,27 +1,22 @@
-
-
 # one hash
 ## two hash
 ### three hash
 #### four hash
 ##### five hash
 plain text
+> blahblahblah
 ###### six hash
 
-> blahblahblah
-
-
-
 # THAUMWORLD RULES STYLE & STRUCTURE
-###### how files are written for man and machine
+> how files are written for man and machine
 
 This section defines the mandatory formatting for THAUMWORLD's index.md files.
-All rules pages 
-###### index.md files  
-are written to be read non-linearly and searched by keyword.
+All rules pages are written to be read non-linearly and searched by keyword.
+> index.md files  
+
 Each rules page is defined by an index.md file located in its own folder.
 see the RULES-INDEX
-###### this is going to make things suuuper legible and easy to access with digital tools.
+> this is going to make things suuuper legible and easy to access with digital tools.
 
 
 
@@ -32,17 +27,17 @@ multi word key words use dashes without spaces. PARTIAL-ACTION, SPELL-CASTING, S
 
 
 
-## what a " # " means
+## the power / standardization of " # " and markdown
 the # count in line triggers markdown formatting and has specific meaning in THAUMWORLD rules files.
 
-no use of any " # "'s denote rules text. this is the basis of these documents. 
 
-# denotes the title of the folder this file lives in.
+# a single " # "denotes the title of the folder this file lives in.
 
-## denotes a sub title section, often used before lists or new paragraph sections. 3 empty lines of space should come before the " ## ", and 3 empty lines should come after the whole sub section.
+## two " ## " denote a sub title section, often used before lists or new paragraph sections. 3 empty lines of space should come before the " ## ", and 3 empty lines should come after the whole sub section.
 
-###### denotes a comment, example, or clarification
+no use of any " # "'s denote rules and general text. this is the basis of these documents. 
 
+> denotes a comment, example, or clarification
 
 
 ## how to format lists
