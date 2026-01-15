@@ -19,8 +19,8 @@ when two of the following are true of the TARGET.
 - TARGET makes an ACTION that can be sensed by the CHARACTER
 >attacking, communicating, using tools, the clap of asscheeks
 
--CHARACTER passes an INSPECT INSTINCT RESULT ROLL : CR of the TARGET's QUIET RESULT ROLL / a set CR
+- CHARACTER passes an INSPECT INSTINCT RESULT ROLL : CR of the TARGET's QUIET RESULT ROLL / a set CR
 >this is for active searches, not idle ones
 
--CHARACTER has the [ AWARENESS : TARGET ] TAG already for the same target.
+- CHARACTER has the [ AWARENESS : TARGET ] TAG already for the same target.
 >to lose awareness from a character as a target, the above 3 cannot be true

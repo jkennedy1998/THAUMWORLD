@@ -88,3 +88,12 @@ they are listed under the extact keyword that titles their folder and index.md f
 > if a character knows your there
 <https://www.thaumworld.xyz/awareness/>
 
+- timed_events-initiative-n-turns
+[timed_events-initiative-n-turns](https://www.thaumworld.xyz/timed_events-initiative-n-turns/)
+> how time flows in sensitive moments
+<https://www.thaumworld.xyz/timed_events-initiative-n-turns/>
+
+- actions
+- [actions](https://www.thaumworld.xyz/actions/)
+> how characters do things
+<https://www.thaumworld.xyz/actions/>

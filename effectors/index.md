@@ -13,21 +13,21 @@ and the maths is done in this order.
 ## EFFECTOR TYPES
 
 SHIFT  
-+ , −  
-###### addition and subtraction
+>+ , −  
+> addition and subtraction
 
 SCALE  
-× , ÷  
-multiplication and division  
-###### ( b a l a t r o )
+>× , ÷  
+>multiplication and division  
+
 
 MAG  
-...MAG...  
-changing qualities  
-###### ( its a standard!)
+>...MAG...  
+>changing qualities  
+
 
 TAG  
 ( TAG )  
-exceptions beyond maths  
-###### ( like being on fire )
+>exceptions beyond maths  
+
 
