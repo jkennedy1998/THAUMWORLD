@@ -28,112 +28,125 @@ they are listed under the extact keyword that titles their folder and index.md f
 > how to tell how potent or powerful something is
 <https://www.thaumworld.xyz/potency-rolls/>
 
-- vigor 
-[vigor](https://www.thaumworld.xyz/vigor/)
+## vigor 
 > on a scale of negative 1 to infinity how alive are you?
 <https://www.thaumworld.xyz/vigor/>
 
-- health
-[health](https://www.thaumworld.xyz/health/)
+## health
 > how alive you are from not getting stabbed
 <https://www.thaumworld.xyz/health/>
 
-- sleep-n-repair
-[sleep-n-repair](https://www.thaumworld.xyz/sleep-n-repair/)
+## sleep-n-repair
 > action types that heal you
 <https://www.thaumworld.xyz/sleep-n-repair/>
 
-- death 
-[death](https://www.thaumworld.xyz/death/)
+## death 
 > the end of a CHARACTER
 <https://www.thaumworld.xyz/death/>
 
-- tiles-n-occupied
-[tiles-n-occupied](https://www.thaumworld.xyz/tiles-n-occupied/)
+## tiles-n-occupied
 > the world as a grid of voxels
 <https://www.thaumworld.xyz/tiles-n-occupied/>
 
-- movement
-[movement](https://www.thaumworld.xyz/movement/)
+## movement
 > an action type, and how you get around
 <https://www.thaumworld.xyz/movement/>
 
-- world-tiles
-[world-tiles](https://www.thaumworld.xyz/world-tiles/)
+## world-tiles
 > like tiles but for moving around large regions instead of tight spaces
 <https://www.thaumworld.xyz/world-tiles/>
 
-- effectors
-[effectors](https://www.thaumworld.xyz/effectors/)
+## effectors
 > how numbers can change
 <https://www.thaumworld.xyz/effectors/>
 
-- reroll
-[rerolls](https://www.thaumworld.xyz/rerolls/)
-> > collective minimum or maximums from multiple rolls
+## reroll
+> collective minimum or maximums from multiple rolls
 <https://www.thaumworld.xyz/rerolls/>
 
-- awareness
-[awareness](https://www.thaumworld.xyz/awareness/)
+## awareness
 > if a character knows your there
 <https://www.thaumworld.xyz/awareness/>
 
-- timed_events-initiative-n-turns
-[timed_events-initiative-n-turns](https://www.thaumworld.xyz/timed_events-initiative-n-turns/)
+## timed_events-initiative-n-turns
 > how time flows in sensitive moments
 <https://www.thaumworld.xyz/timed_events-initiative-n-turns/>
 
-- actions
+## actions
 [actions](https://www.thaumworld.xyz/actions/)
 > how characters do things
 <https://www.thaumworld.xyz/actions/>
 
-- conditions
-[conditions](https://www.thaumworld.xyz/conditions/)
+## conditions
 > observations of things
 <https://www.thaumworld.xyz/conditions/>
 
-- spell-casting
-[spell-casting](https://www.thaumworld.xyz/spell-casting/)
+## spell-casting
 > how spells are executed
 <https://www.thaumworld.xyz/spell-casting/>
 
-- spell-slots
-[spell-slots](https://www.thaumworld.xyz/spell-slots/)
+## spell-slots
 > how many spells a character knows at one time
 <https://www.thaumworld.xyz/spell-slots/>
 
-- glyphs-n-calls
-[glyphs-n-calls](https://www.thaumworld.xyz/glyphs-n-calls/)
+## glyphs-n-calls
 > are to words, as spells are to sentences
 <https://www.thaumworld.xyz/glyphs-n-calls/>
 
-- proficiency
-[proficiency](https://www.thaumworld.xyz/proficiency/)
+## proficiency
 > a measurement of a characters specified knowledge or abilities 
 <https://www.thaumworld.xyz/proficiency/>
 
-- damage
-[damage](https://www.thaumworld.xyz/damage/)
+## damage
 > harmful changes to health, vigor, or thaum
 <https://www.thaumworld.xyz/damage/>
 
-- tags
-[tags](https://www.thaumworld.xyz/tags/)
+## tags
 > special ammendments to the rules 
 <https://www.thaumworld.xyz/tags/>
 
-- evasion
-[evasion](https://www.thaumworld.xyz/evasion/)
+## evasion
 > how characters avoid being hit
 <https://www.thaumworld.xyz/evasion/>
 
-- fortitude
-[fortitude](https://www.thaumworld.xyz/fortitude/)
+## fortitude
 >how characters avoid being mentally hit
 <https://www.thaumworld.xyz/fortitude/>
 
-- safe-n-not-safe-temeratures
-[safe-n-not-safe-temeratures](https://www.thaumworld.xyz/safe-n-not-safe-temeratures/)
+## safe-n-not-safe-temeratures
 > what happens when things get too hot or too cold
 <https://www.thaumworld.xyz/safe-n-not-safe-temeratures/>
+
+## diet
+> the resources someone needs to sustain life
+<https://www.thaumworld.xyz/diet/>
+
+## body-slots-n-equipt
+> how you equipt items
+<https://www.thaumworld.xyz/body-slots-n-equipt/>
+
+# items-n-inventory
+> for picking things up
+<https://www.thaumworld.xyz/items-n-inventory/>
+
+## tools
+> items that that empower actions through tags
+<https://www.thaumworld.xyz/tools/>
+
+## armors
+> items that that empower characters through tags
+<https://www.thaumworld.xyz/armors/>
+
+## break-threshold
+> when something becomes broken
+<https://www.thaumworld.xyz/break-threshold/>
+
+## weight-penalty
+> when your collective items slow you down
+<https://www.thaumworld.xyz/weight-penalty/>
+
+
+
+
+
+
