@@ -103,32 +103,47 @@ they are listed under the extact keyword that titles their folder and index.md f
 > observations of things
 <https://www.thaumworld.xyz/conditions/>
 
--spell-casting
+- spell-casting
 [spell-casting](https://www.thaumworld.xyz/spell-casting/)
 > how spells are executed
 <https://www.thaumworld.xyz/spell-casting/>
 
--spell-slots
+- spell-slots
 [spell-slots](https://www.thaumworld.xyz/spell-slots/)
 > how many spells a character knows at one time
 <https://www.thaumworld.xyz/spell-slots/>
 
--glyphs-n-calls
+- glyphs-n-calls
 [glyphs-n-calls](https://www.thaumworld.xyz/glyphs-n-calls/)
 > are to words, as spells are to sentences
 <https://www.thaumworld.xyz/glyphs-n-calls/>
 
--proficiency
+- proficiency
 [proficiency](https://www.thaumworld.xyz/proficiency/)
 > a measurement of a characters specified knowledge or abilities 
 <https://www.thaumworld.xyz/proficiency/>
 
--damage
+- damage
 [damage](https://www.thaumworld.xyz/damage/)
 > harmful changes to health, vigor, or thaum
 <https://www.thaumworld.xyz/damage/>
 
--tags
+- tags
 [tags](https://www.thaumworld.xyz/tags/)
 > special ammendments to the rules 
 <https://www.thaumworld.xyz/tags/>
+
+- evasion
+[evasion](https://www.thaumworld.xyz/evasion/)
+> how characters avoid being hit
+<https://www.thaumworld.xyz/evasion/>
+
+- fortitude
+[fortitude](https://www.thaumworld.xyz/fortitude/)
+>how characters avoid being mentally hit
+<https://www.thaumworld.xyz/fortitude/>
+
+- safe-n-not-safe-temeratures
+[safe-n-not-safe-temeratures](https://www.thaumworld.xyz/safe-n-not-safe-temeratures/)
+> what happens when things get too hot or too cold
+<https://www.thaumworld.xyz/safe-n-not-safe-temeratures/>
