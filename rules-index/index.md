@@ -125,7 +125,7 @@ they are listed under the extact keyword that titles their folder and index.md f
 > how you equipt items
 <https://www.thaumworld.xyz/body-slots-n-equipt/>
 
-# items-n-inventory
+## items-n-inventory
 > for picking things up
 <https://www.thaumworld.xyz/items-n-inventory/>
 
@@ -144,6 +144,12 @@ they are listed under the extact keyword that titles their folder and index.md f
 ## weight-penalty
 > when your collective items slow you down
 <https://www.thaumworld.xyz/weight-penalty/>
+
+## tag-table
+> ammendments to rules for characters, items, tiles, and tags
+<https://www.thaumworld.xyz/tag-table/>
+
+
 
 
 
