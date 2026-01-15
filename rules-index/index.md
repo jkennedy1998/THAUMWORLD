@@ -97,3 +97,8 @@ they are listed under the extact keyword that titles their folder and index.md f
 - [actions](https://www.thaumworld.xyz/actions/)
 > how characters do things
 <https://www.thaumworld.xyz/actions/>
+
+- conditions
+[conditions](https://www.thaumworld.xyz/conditions/)
+> observations of things
+<https://www.thaumworld.xyz/conditions/>
