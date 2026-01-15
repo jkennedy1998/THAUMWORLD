@@ -94,7 +94,7 @@ they are listed under the extact keyword that titles their folder and index.md f
 <https://www.thaumworld.xyz/timed_events-initiative-n-turns/>
 
 - actions
-- [actions](https://www.thaumworld.xyz/actions/)
+[actions](https://www.thaumworld.xyz/actions/)
 > how characters do things
 <https://www.thaumworld.xyz/actions/>
 
@@ -102,3 +102,18 @@ they are listed under the extact keyword that titles their folder and index.md f
 [conditions](https://www.thaumworld.xyz/conditions/)
 > observations of things
 <https://www.thaumworld.xyz/conditions/>
+
+-spell-casting
+[spell-casting](https://www.thaumworld.xyz/spell-casting/)
+> how spells are executed
+<https://www.thaumworld.xyz/spell-casting/>
+
+-spell-slots
+[spell-slots](https://www.thaumworld.xyz/spell-slots/)
+> how many spells a character knows at one time
+<https://www.thaumworld.xyz/spell-slots/>
+
+-glyphs-n-calls
+[glyphs-n-calls](https://www.thaumworld.xyz/glyphs-n-calls/)
+> are to words, as spells are to sentences
+<https://www.thaumworld.xyz/glyphs-n-calls/>
