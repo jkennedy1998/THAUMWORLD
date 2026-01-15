@@ -117,3 +117,18 @@ they are listed under the extact keyword that titles their folder and index.md f
 [glyphs-n-calls](https://www.thaumworld.xyz/glyphs-n-calls/)
 > are to words, as spells are to sentences
 <https://www.thaumworld.xyz/glyphs-n-calls/>
+
+-proficiency
+[proficiency](https://www.thaumworld.xyz/proficiency/)
+> a measurement of a characters specified knowledge or abilities 
+<https://www.thaumworld.xyz/proficiency/>
+
+-damage
+[damage](https://www.thaumworld.xyz/damage/)
+> harmful changes to health, vigor, or thaum
+<https://www.thaumworld.xyz/damage/>
+
+-tags
+[tags](https://www.thaumworld.xyz/tags/)
+> special ammendments to the rules 
+<https://www.thaumworld.xyz/tags/>
