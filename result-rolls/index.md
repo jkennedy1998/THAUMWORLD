@@ -27,7 +27,7 @@ RESULT ROLL DICE:
 > D20
 
 RESULT ROLL effectors:
-> + relevant PROFICIENCY BONUS
+> + relevant PROFICIENCY MAG
 > + 1 STAT BONUS (from above prof)
 > + infinite EFFECTORS
 

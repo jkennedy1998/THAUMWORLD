@@ -1,6 +1,8 @@
 # THAUMWORLD RULES STYLE & STRUCTURE
 > how files are written for man and machine
 
+THAUMWORLD.xyz is the host for text based rules for the THAUMWORLD system for use technical experimentation and play.
+
 This section defines the mandatory formatting for THAUMWORLD's index.md files.
 All rules pages are written to be read non-linearly and searched by keyword under their own folder name. 
 they are written as an index.md file within that folder.

@@ -73,3 +73,18 @@ they are listed under the extact keyword that titles their folder and index.md f
 > like tiles but for moving around large regions instead of tight spaces
 <https://www.thaumworld.xyz/world-tiles/>
 
+- effectors
+[effectors](https://www.thaumworld.xyz/effectors/)
+> how numbers can change
+<https://www.thaumworld.xyz/effectors/>
+
+- reroll
+[rerolls](https://www.thaumworld.xyz/rerolls/)
+> > collective minimum or maximums from multiple rolls
+<https://www.thaumworld.xyz/rerolls/>
+
+- awareness
+[awareness](https://www.thaumworld.xyz/awareness/)
+> if a character knows your there
+<https://www.thaumworld.xyz/awareness/>
+
