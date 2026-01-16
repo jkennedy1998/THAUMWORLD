@@ -1,42 +1,12 @@
 ﻿# tag-table
-> ammendments to rules for characters, items, tiles, and tags
+> the expanding scroll of tags and their properties
 
-## where TAGs go
-TAGS are amendments to rules.
-They are attached to a CHARACTER, ITEM, TILE, or another TAG.
-
-> FIRE: characters take damage and gain a sub-action to resolve it  
-> items decay and spread fire around them  
-> a tile that is on fire deals area damage  
-> TAGS cannot gain the FIRE TAG, as it is not a META TAG
-
----
-
-## what TAGs have
-
-### a NAME
-> like FIRE!, DISEASE, or AXE
-
-### a PROFICIENCY
-> dictates what STAT or PROF is used in the TAG rules
-
-### a MAGNITUDE 
-> how many stacks of the same TAG you have per owner
-
-### information to be tracked
-> what the tag owner has to keep track of to do the ruling. this is set from the tag giver. may be a challenge rating, target, or anything really.
-
-### META TAGs
-> so less rules need to be stated over all, and so tags can be referenced catagorically
-
-### separate listed rules for CHARACTERs, ITEMs, and TILEs.
-> sometimes the rules will be left with a " - " signalling that the target type cannot be given that tag.
-
----
 ## TAG TABLE preface
 
 below is a list of TAGs that are present in THAUMWORLD.
-they are not the only ones that exist, but they are the default out of the box TAGs. 
+they are not the only ones that exist, but they are the default out of the box TAGs.
+
+see the TAG page for more information on what a TAG is
 
 If an existing TAG does not quite fit a situation,
 new TAGS can be created using similar structure to existing TAGS.
@@ -46,7 +16,7 @@ new TAGS can be created using similar structure to existing TAGS.
 
 ---
 
-## TAG TABLE
+## TAG EXAMPLE FORMATTING
 
 [ TAGNAME : information to be tracked ]
 > PROFICIENCY : here, here if there are two, ...
@@ -60,3 +30,39 @@ new TAGS can be created using similar structure to existing TAGS.
 > > TILE : description here
 
 --- 
+
+## THE TAG TABLE
+
+### META TAGs
+
+[ DISPERSING ]
+> PROFICIENCY : decided by TAG this is on
+> the TAG this is put on naturally disperses at the end of a TURN
+> fast paced effects that go away within a TIMED EVENT or 1 EXTENDED ACTION
+
+> > CHARACTER : -1 ( TAG ) at end of TURN
+
+> > ITEM : -1 ( TAG ) at end of TURN
+
+> > TILE : -1 ( TAG ) at end of TURN
+---
+
+[ DISEASE : CR of the DISEASE ]
+> PROFICIENCY : PAIN unless overridden
+> the TAG this is put is a DISEASE that effects biological creatures.
+> the TAG this is on will state what the specific disease does, 
+> and its CR for curing a TAG
+
+> > CHARACTER : -1 ( TAG ) on passed RESULT ROLL : ( DISEASE CR ) during SLEEP
+
+> > ITEM : decided by TAG this is on
+
+> > TILE : decided by TAG this is on
+
+--- 
+
+### TAGs
+
+
+
+
