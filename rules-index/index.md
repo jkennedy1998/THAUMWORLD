@@ -73,7 +73,6 @@ they are listed under the extact keyword that titles their folder and index.md f
 <https://www.thaumworld.xyz/timed_events-initiative-n-turns/>
 
 ## actions
-[actions](https://www.thaumworld.xyz/actions/)
 > how characters do things
 <https://www.thaumworld.xyz/actions/>
 

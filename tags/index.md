@@ -29,7 +29,7 @@ They are attached to a CHARACTER, ITEM, TILE, or another TAG.
 
 ### a MAGNITUDE 
 > how many stacks of the same TAG you have per owner
--
+
 ### information to be tracked
 > what the tag owner has to keep track of to do the ruling. this is set from the tag giver. may be a challenge rating, target, or anything really.
 
