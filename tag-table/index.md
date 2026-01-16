@@ -42,63 +42,76 @@ new TAGS can be created using similar structure to existing TAGS.
 > these are often called to within PERKS and SPELLS
 
 ---
+--- 
+--- 
 
 ### [ DISPERSING ]
 > PROFICIENCY : decided by TAG this is on
-> the TAG this is put on naturally disperses at the end of a TURN
-> fast paced effects that go away within a TIMED EVENT or 1 EXTENDED ACTION
+the TAG this is put on naturally disperses at the end of a TURN
+fast paced effects that go away within a TIMED EVENT or 1 EXTENDED ACTION
 
-> > CHARACTER : -1 ( TAG ) at end of TURN
+CHARACTER :
+> -1 ( TAG ) at end of TURN
 
-> > ITEM : -1 ( TAG ) at end of TURN
+ITEM :
+> -1 ( TAG ) at end of TURN
 
-> > TILE : -1 ( TAG ) at end of TURN
+TILE :
+> -1 ( TAG ) at end of TURN
 
 ---
 
 ### [ DISEASE : CR of the DISEASE ]
 > PROFICIENCY : PAIN unless overridden
-> the TAG this is put is a DISEASE that effects biological creatures.
-> the TAG this is on will state what the specific disease does, 
-> and its CR for curing a TAG
+the TAG this is put is a DISEASE that effects biological creatures.
+the TAG this is on will state what the specific disease does, 
+and its CR for curing a TAG
 
-> > CHARACTER : -1 ( TAG ) on passed RESULT ROLL : ( DISEASE CR ) during SLEEP
+CHARACTER : 
+> -1 ( TAG ) on passed RESULT ROLL : ( DISEASE CR ) during SLEEP
 
-> > ITEM : decided by TAG this is on
+ITEM : 
+> decided by TAG this is on
 
-> > TILE : decided by TAG this is on
+TILE : 
+> decided by TAG this is on
 
 --- 
 
 ### [ DAMAGE ]
 > PROFICIENCY : PAIN unless overridden
-> this marks a DAMAGE TAG AND proc-s a lot of stuff through the ITEM that does the DAMAGE
+this marks a DAMAGE TAG AND proc-s a lot of stuff through the ITEM that does the DAMAGE
 
-> > CHARACTER : -
+CHARACTER : -
 
-> > ITEM : the item procs rules about this DAMAGE TAG when it is used to do DAMAGE
-> > > like characters with weaknesses to it 
+ITEM : 
+> the item procs rules about this DAMAGE TAG when it is used to do DAMAGE
+> like characters with weaknesses to it 
 
-> > TILE : -
+TILE : -
 
 --- 
 
 ### [ TOOL ]
 > PROFICIENCY : decided by TAG this is on
-> if something can be EQUIPT on a HAND SLOT as a TOOL
+if something can be EQUIPT on a HAND SLOT as a TOOL
 
-> > CHARACTER : this could happen if a larger creature grabs you like an item, and uses you to preform an action.
-> > you take equal damage as the potency you helped. 
-> > > attack damage that your body does to something also applies to you, effecting your health instead giving you stacks of break
+CHARACTER : 
+> this could happen if a larger creature grabs you like an item, and uses you to preform an action.
+> you take equal damage as the potency you helped. 
+> attack damage that your body does to something also applies to you, effecting your health instead giving you stacks of break
 
-> > ITEM : the ITEM can be EQUIPT in a HAND and used like a TOOL for ACTIONS to be specified on the TAG this is on
-> > this ITEM gains the default TARGETER GLYPH set by the TAG this is on.
+ITEM : 
+> the ITEM can be EQUIPT in a HAND and used like a TOOL for ACTIONS to be specified on the TAG this is on
+> this ITEM gains the default TARGETER GLYPH set by the TAG this is on.
 
-> > TILE : -
+TILE : -
 
 --- 
+--- 
+--- 
 
-### TAGs
+### normal TAGs
 >these are TAGs you would find in the world on CHARACTERs, ITEMs, or TILEs.
 >you may see these referenced in other TAGs, but never put onto TAGs themselves.
 
@@ -204,48 +217,34 @@ all TAG MAGs are cleared from this effect if the TARGET does pass a GRAPPLE at l
 
 ---
 
-### [ BROKEN ]
-> PROFICIENCY : MECHANICS
-> this is set from multiple sources, usually from surprises or intense senses
-
-> > CHARACTER : you cannot EQUIPT this item by normal means if the MAG TAG is greater or equal to the ITEM MAG
-> > on a passed CRAFT RESULT ROLL : (CR 10) any CHARACTER can remove 1 TAG MAG from any TARGET
-
-> > ITEM : -
-
-> > TILE : walking or climbing on this tile crumble it, and the tile can be destroyed with DAMAGE MAG 1 and above
-> > on a passed CRAFT RESULT ROLL : (CR 10) any CHARACTER can remove 1 TAG MAG from any TARGET
-
----
-
 ### [ FIRE! ]
 > PROFICIENCY : HEARTH
 [ DISPERSING ]
-> this is when things are on fire, and this is usually conditional or caused
+> this is when things are on FIRE!, and this is usually conditional or caused
 
 > > CHARACTER : -1 ( TAG ) on passed HEARTH RESULT ROLL : (10+TAGMAG)
 > > at the end of a CHARACTER’s TURN, they get -(TAGMAG) HEALTH DAMAGE
-> > does not disperse naturally if the TAG holder also has [ FLAMABLE ]
-> > spreads to CHARACTERs, ITEMs, and TILEs with [ FLAMABLE ] within one adjacent TILE per TURN
+> > does not disperse naturally if the TAG holder also has [ FLAMMABLE ]
+> > spreads to CHARACTERs, ITEMs, and TILEs with [ FLAMMABLE ] within one adjacent TILE per TURN
 
 > > ITEM : at the end of a ROUND, the TAG holding ITEM get +(TAGMAG) stacks of [ BROKEN ]
 > > the TILE this occupies calculates as if its [ FIRE! ] tag is equal to this ITEM -- if it has a lower amount of [ FIRE! ] TAGs
 
 > > TILE : at the end of a ROUND, the TAG holding TILE get +(TAGMAG) stacks of [ BROKEN ]
 > > the TEMPARATURE MAG counts as +1 per MAG TAG for this tile, relative to the WORLD TILE its in.
-> > does not disperse naturally if the TAG holder also has [ FLAMABLE ]
-> > spreads to CHARACTERs, ITEMs, and TILEs with [ FLAMABLE ] within one adjacent TILE per TURN
+> > does not disperse naturally if the TAG holder also has [ FLAMMABLE ]
+> > spreads to CHARACTERs, ITEMs, and TILEs with [ FLAMMABLE ] within one adjacent TILE per TURN
 
 ---
 
-### [ FLAMABLE ]
+### [ FLAMMABLE ]
 > PROFICIENCY : HEARTH
-> this is when things can catch on fire automatically
+> this is when things can catch on FIRE! automatically
 
-> > CHARACTER : when there is an adjacent or touching [ FIRE ], convert all TAG MAG of this TAG, to [ FIRE! ]
+> > CHARACTER : when there is an adjacent or touching [ FIRE! ], convert all TAG MAG of this TAG, to [ FIRE! ]
 
-> > ITEM : when there is an adjacent or touching [ FIRE ], convert all TAG MAG of this TAG, to [ FIRE! ]
+> > ITEM : when there is an adjacent or touching [ FIRE! ], convert all TAG MAG of this TAG, to [ FIRE! ]
 
-> > TILE : when there is an adjacent or touching [ FIRE ], convert all TAG MAG of this TAG, to [ FIRE! ]
+> > TILE : when there is an adjacent or touching [ FIRE! ], convert all TAG MAG of this TAG, to [ FIRE! ]
 
 ---

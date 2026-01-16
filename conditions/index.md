@@ -49,8 +49,8 @@ immediately after it becomes false
 ---
 
 ## timing
-When a timer runs out.
-> delayed spells, magic machines  
+When a timer using TURN, ROUND, or EXTENDED ACTION finishes
+> delayed spells, magic machines, TAGs
 
 **when it procs:**  
 immediately after the timer is up  

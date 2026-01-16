@@ -12,6 +12,7 @@ If something has a TAG, it has a rule associated with it.
 ## where TAGs go
 TAGS are amendments to rules.
 They are attached to a CHARACTER, ITEM, TILE, or another TAG.
+TAGs of the same type can be given multiple times. Whether the TAG rules actually use that stacking is optional.
 
 > FIRE: characters take damage and gain a sub-action to resolve it  
 > items decay and spread fire around them  
