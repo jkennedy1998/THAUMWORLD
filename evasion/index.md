@@ -7,11 +7,14 @@ EVASION is calculated as:
 
 10  
 > an abstraction of a semi-difficult task using the CR chart
-+ DEX BONUS  
-> your base ability to evade  
-+ EFFECTORS  
+
+plus DEX BONUS  
+> your base ability to evade 
+
+plus EFFECTORS  
 > extra sprinkles  
-− ARMOR PENALTIES  
+
+minus ARMOR PENALTIES  
 > the scaled weight of gear and stability  
 
 
