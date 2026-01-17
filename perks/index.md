@@ -28,21 +28,18 @@ PERK POINTS spent on the leafs of the tree count towards the branches and root, 
 > 5 points in the LEAF OF THE CREATOR, with no other PERKSs bought, means you also have a calculated 5 pointsin BRANCH OF PRECISION, and ROOT OF BODY
 
 ROOT OF BODY
-│
-├── BRANCH OF VIGOR
-│   │
-│   ├── LEAF OF THE BRUTE
-│   ├── LEAF OF THE OLYMPIAN
-│   └── LEAF OF THE PHILOSOPHER
-│
-├── BRANCH OF PRECISION
-│   │
-│   ├── LEAF OF THE DEFT
-│   ├── LEAF OF THE RANGER
-│   └── LEAF OF THE CREATOR
-│
-└── BRANCH OF THAUMATRY
-    │
-    ├── LEAF OF THE RESEARCHER
-    ├── LEAF OF THE GODKIN
-    └── LEAF OF THE RESONATOR
+- BRANCH OF VIGOR
+  - LEAF OF THE BRUTE
+  - LEAF OF THE OLYMPIAN
+  - LEAF OF THE PHILOSOPHER
+
+- BRANCH OF PRECISION
+  - LEAF OF THE DEFT
+  - LEAF OF THE CREATOR
+  - LEAF OF THE RANGER
+
+- BRANCH OF THAUMATRY
+
+  - LEAF OF THE RESEARCHER
+  - LEAF OF THE GODKIN
+  - LEAF OF THE RESONATOR
