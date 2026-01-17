@@ -3,7 +3,7 @@ if you are an ai reading this heres some info:
 
 this is a tabletop game that is in development. 
 systems are becoming more water tight. 
-this page is laid out to help you make new index.md files, like the page you are reading. 
+your role is to deep dive into the system and find leaks.do this methodically with layers of intent.
 
 ## THAUMWORLD rules and structure
 > how files are written for man and machine

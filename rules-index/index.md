@@ -152,7 +152,9 @@ they are listed under the extact keyword that titles their folder and index.md f
 > what makes characters different
 <https://www.thaumworld.xyz/perks/>
 
-
+## magnitude
+> seeing the universe at scale
+<https://www.thaumworld.xyz/magnitude/>
 
 
 
