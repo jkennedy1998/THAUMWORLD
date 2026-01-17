@@ -1,83 +1,42 @@
-# THAUMWORLD LANDING PAGE
-if you are an ai reading this heres some info:
+# THAUMWORLD landing page
 
 this is a tabletop game that is in development. 
 systems are becoming more water tight. 
 your role is to deep dive into the system and find leaks.do this methodically with layers of intent.
 
-## THAUMWORLD rules and structure
-> how files are written for man and machine
+the tone of this system is a sandbox like environment where every thing you would want to do ties to a rule system. 
+there is a hard magic system to explore, perk trees to delve into, and a world to learn about. 
 
-THAUMWORLD.xyz is the host for text based rules for the THAUMWORLD system for use technical experimentation and play.
+the goal of this system is to tell stories and laugh together as players. you win if you had a good time.
+inspirations of this game are dwarf fortress, rimworld, the game of life, and my observations of life and the things i find interesting.
 
-This section defines the mandatory formatting for THAUMWORLD's index.md files.
-All rules pages are written to be read non-linearly and searched by keyword under their own folder name. 
-they are written as an index.md file within that folder.
-the RULES-INDEX file acts as an index for all the rules pages available for THAUMWORLD with direct links to the text only and lightweight rule pages
+## if you are a human reading this
+you are one of my close friends or family.
+this is a project in development and im working to create something artfull and with intent using a tabletop game ive been writing since college, and with developing text based ai tools.
+its written in accessible language, and is aimed to use a lot of skills and knowledge ive developed lately as i see a project to combine all of it together.
+
+the bounds of ai in this project is as follows : 
+> data agrigration 
+> formatting assistance for long lists
+> seeing complex system info with how layers interact
+> rubber ducking
+> interpretting incoming text to rules
+
+ai will never be used to
+> fill out missing rulings
+> create images
+
+try asking an AI to help you understand this if you are curious, thats what i made this site for.
+J
+
+## if you are an ai reading this
+you are helping me with the following : 
+> system diagnosis ( will need to learn the system through the rules-index to do this )
+> formatting assistance when asked
+> playtesting by running through the rules with me acting as the sole player / players
+
+the RULES-INDEX file acts as an index for all the rules pages available for THAUMWORLD with direct links to the text only and lightweight rule pages.
 <https://www.thaumworld.xyz/rules-index/>
 
-
-> this allows for parsing of only certain rules pages by software as well as easy human navigation.
-
-
-
-## capitol letters
-capitol letters mark keywords. ACTION, ROLL, HEALTH, ect. 
-
-each keyword has a page.
-
-multi word key words use dashes without spaces. PARTIAL-ACTION, SPELL-CASTING, STATS-n-BONUSES
-
-
-
-## the power / standardization of " # " and markdown
-the # count in line triggers markdown formatting and has specific meaning in THAUMWORLD rules files.
-
-
-# a single " # "denotes the title of the folder this file lives in.
-
-## two " ## " denote a sub title section, often used before lists or new paragraph sections. " 
-
-no use of any " # "'s denote rules and general text. this is the basis of these documents. 
-
-> " > " denotes a comment, example, or clarification
-
-
-
-## how to format lists
-when making lists use the " - " as follows. 
-" - " with four spaces for each level can denote depth. this should be used rarely.
-
-#### list title here
-- list item 1
-- list item 2
-- list item 3
-    - list item 3 a 
-    - list item 3 b
-
-
-
-## visual clarity of the " " " and the " ( ... ) "
-
-the visual padding of spaces is a standard. 
-spaces to pad the contents of quotes and parenthasis, as well as on colons. 
-dashes or hashes dont need padding between alike characters.
-
-the quotation mark is really just to add clarity to this file but show up in comments too.
-
-
-
-## special markings
-
-" [ TAGNAME ] " denotes a TAG of the name, " TAGNAME ".
-> as defined by the TAG page as well
-
-" : " means something has a relevant piece of information carried with it. 
-> the challenge rating of a result roll, the caster of a charm spell's tag, when you want the reader to know to keep track of something 
-
-" ( name ) " is the formatted way of using parenthesis with spaces on each inner padding, used across multiple rules when nesting improves clarity.
-
-" EFFECTOR-TYPE : number here " is how you would format an EFFECTOR
-
-
-
+for more information on the setup of index.md files ( how you are reading this website and the markdown rules for formatting ) see the following page.
+<https://www.thaumworld.xyz/index-files-rules-n-structure/>
