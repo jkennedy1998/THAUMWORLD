@@ -152,3 +152,203 @@ MAG   description of comparable magnitudes          thaum impact
 > 6     nearly flawless gems                          32 THAUMPACITY
 
 ---
+
+## WEIGHT MAGs
+> how heavy something is
+WEIGHT is the measurement of the mass of something
+
+MAG    description of comparable magnitudes
+> -2   the turbulence of general atmospheres, a flea, a hair, a puff of pollen
+
+> -1   a feather, a single coin, a key, a ring or small trinket, most ammo, xs character of flesh
+
+> 0    a dagger, a wand, a small stone, a light bow, light non-torso armor, light tools
+
+> 1    a medium tool, a staff, light crafting kits, medium non-torso armor, light torso armor
+
+> 2    a heavy metal tool, heavy crafting kits, medium torso armor, heavy non-torso armor
+
+> 3    heavy torso armor, a chest
+
+> 4    a crate full of light goods, an s sized creature of flesh
+
+> 5    a crate full of heavy goods, an m sized creature of flesh
+
+> 6    an anvil, a l sized creature of flesh
+
+> 7    a small boulder
+
+> 8    a xl sized creature made of stone
+
+> 9    a loaded wagon
+
+> 10   a piece of a building
+
+---
+
+## SIZE MAGs
+> a more precise measurement of CHARACTER size
+SIZE is how big a CHARACTER or ITEM is
+SIZE in increasing MAGNITUDES. 
+
+MAG     size    TILES of occupancy      description of comparable magnitudes
+> -2    xs-     0 ( no occupancy )      a pin drop, a mite, a flea
+
+> -1    xs+     0 ( no occupancy )      a grape, a small rock, an eye of a naked ape
+
+>  0    s-      .1                      a watermelon
+
+>  1    s+      .5                      the chest of a naked ape, a small wooden chest
+
+>  2    m-      1                       a large wooden chest
+
+>  3    m+      2 ( any 2 adjacent )    most doorways
+
+>  4    l-      4 ( any shape )         double doorways, large beds
+
+>  5    l+      8 ( any shape )         a small 2x4 sized bathroom
+
+>  6    xl-     16 ( any shape )        a small 4x4 sized room
+
+>  7    xxl+    32 ( any shape )        a smallish 8x4 sized room
+
+>  8    xxl-    64 ( any shape )        a medium 8x8 sized room
+
+>  9    xxl +   128 ( any shape )       an 8x16 room
+
+> 10    xxxl-   256 ( any shape )       a 16x16 room
+
+---
+
+## TEMPERATURE MAGs
+> how hot or cold something is
+this is often used for warmth rules found on the safe-n-not-safe-temeratures page
+
+MAG     description of comparable magnitudes
+> -6    magical, heat-draining cold force, lesser than deep space cold
+
+> -5    cold polar nights
+
+> -4    winter nights, exposed dead flesh freezes
+
+> -3    exposed water freezes
+
+> -2    exposed and still water freezes, a cold winter day
+
+> -1    a brisk fall or spring day, cold metal, cold rain
+
+>  0    liquid water, perfect for a naked ape
+
+>  1    a muggy summer day, warm metal
+
+>  2    a sauna, hot springs, exposed and still water evaporates
+
+>  3    boiling water
+
+>  4    warm glowing metal iron
+
+>  5    lava caves, underwater heat vents
+
+>  6    a magical incinerating heat force, lesser than the sun
+
+---
+
+## DISTANCE MAGs
+> how far something is
+an amount of a space between two points in space, often used as a range
+
+MAG     description of comparable magnitudes
+> -2    pinpoint distance
+
+> -1    a few inches
+
+>  0    within 1 tile
+
+>  1    on the adjacent tile
+
+>  2    3 tiles away
+
+>  3    5 tiles away
+
+>  4    10 tiles away
+
+>  5    30 tiles away
+
+>  6    100 tiles away
+
+>  7    300 tiles away
+
+>  8    1,000 tiles away
+
+>  9    3,000 tiles away / within a WORLD TILE
+
+> 10    10,000 tiles away / 1 WORLD TILE away
+
+
+---
+
+## SPEED MAGs
+from microscopic movements to light speeds
+the speed of a projectile the size of a (MAG 1 SIZE)
+
+MAG   description of comparable magnitudes
+> -2    microscopic movements
+
+> -1    1 tile per EXTENDED ACTION
+
+>  0    1 tile per ROUND
+
+>  1    1 tile per ACTION
+
+>  2    2 tiles per ACTION
+
+>  3    4 tiles per ACTION
+
+>  4    8 tiles per ACTION
+
+>  5    16 tiles per ACTION
+
+>  6    32 tiles per ACTION
+
+>  7    64 tiles per ACTION
+
+>  8    128 tiles per ACTION
+
+>  9    256 tiles per ACTION
+
+> 10    512 tiles per ACTION
+
+---
+
+## TIME MAGs
+> from scientific clocks to calendars
+the amount of time something takes up
+
+MAG     description of comparable magnitudes
+> -2    a very scientific measurement of time
+
+> -1    an instant / functionally immediate
+
+>  0    a short perceived moment
+
+>  1    1 ACTION / TURN
+
+>  2    1 ROUND (about 6 seconds)
+
+>  3    2 ROUNDS
+
+>  4    5 ROUNDS
+
+>  5    10 ROUNDS (about 1 minute)
+
+>  6    600 ROUNDS (about 1 hour)
+
+>  7    1 EXTENDED ACTION (about 2 hours)
+
+>  8    2 EXTENDED ACTIONS
+
+>  9    5 EXTENDED ACTIONS
+
+> 10    10 EXTENDED ACTIONS / 1 DAY
+
+---
