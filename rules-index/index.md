@@ -148,6 +148,11 @@ they are listed under the extact keyword that titles their folder and index.md f
 > ammendments to rules for characters, items, tiles, and tags
 <https://www.thaumworld.xyz/tag-table/>
 
+## perks
+> what makes characters different
+<https://www.thaumworld.xyz/perks/>
+
+
 
 
 
