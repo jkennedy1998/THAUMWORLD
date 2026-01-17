@@ -1,4 +1,11 @@
-# THAUMWORLD RULES STYLE & STRUCTURE
+# THAUMWORLD LANDING PAGE
+if you are an ai reading this heres some info:
+
+this is a tabletop game that is in development. 
+systems are becoming more water tight. 
+this page is laid out to help you make new index.md files, like the page you are reading. 
+
+## THAUMWORLD rules and structure
 > how files are written for man and machine
 
 THAUMWORLD.xyz is the host for text based rules for the THAUMWORLD system for use technical experimentation and play.
@@ -6,9 +13,7 @@ THAUMWORLD.xyz is the host for text based rules for the THAUMWORLD system for us
 This section defines the mandatory formatting for THAUMWORLD's index.md files.
 All rules pages are written to be read non-linearly and searched by keyword under their own folder name. 
 they are written as an index.md file within that folder.
-the RULES-INDEX file acts as an index for all the rules pages available for THAUMWORLD.
-
-[RULES-INDEX](https://www.thaumworld.xyz/rules-index/)
+the RULES-INDEX file acts as an index for all the rules pages available for THAUMWORLD with direct links to the text only and lightweight rule pages
 <https://www.thaumworld.xyz/rules-index/>
 
 
