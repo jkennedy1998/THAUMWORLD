@@ -10,6 +10,12 @@ there is a hard magic system to explore, perk trees to delve into, and a world t
 the goal of this system is to tell stories and laugh together as players. you win if you had a good time.
 inspirations of this game are dwarf fortress, rimworld, the game of life, and my observations of life and the things i find interesting.
 
+the RULES-INDEX file acts as an index for all the rules pages available for THAUMWORLD with direct links to the text only and lightweight rule pages.
+<https://www.thaumworld.xyz/rules-index/>
+
+for more information on the setup of index.md files ( how you are reading this website and the markdown rules for formatting ) see the following page.
+<https://www.thaumworld.xyz/index-files-rules-n-structure/>
+
 ## if you are a human reading this
 you are one of my close friends or family.
 this is a project in development and im working to create something artfull and with intent using a tabletop game ive been writing since college, and with developing text based ai tools.
@@ -35,8 +41,4 @@ you are helping me with the following :
 > formatting assistance when asked
 > playtesting by running through the rules with me acting as the sole player / players
 
-the RULES-INDEX file acts as an index for all the rules pages available for THAUMWORLD with direct links to the text only and lightweight rule pages.
-<https://www.thaumworld.xyz/rules-index/>
 
-for more information on the setup of index.md files ( how you are reading this website and the markdown rules for formatting ) see the following page.
-<https://www.thaumworld.xyz/index-files-rules-n-structure/>

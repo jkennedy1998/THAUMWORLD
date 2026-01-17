@@ -51,6 +51,14 @@ these are broken into sections for ease of parsing. higher sections are more bas
 > how to tell how potent or powerful something is
 <https://www.thaumworld.xyz/potency-rolls/>
 
+## character
+> anything that can do actions
+<https://www.thaumworld.xyz/character/>
+
+## actions
+> how characters do things
+<https://www.thaumworld.xyz/actions/>
+
 ## effectors
 > how numbers can change
 <https://www.thaumworld.xyz/effectors/>
@@ -97,14 +105,6 @@ these are broken into sections for ease of parsing. higher sections are more bas
 
 --- 
 ## character-mechanics
-
-## character
-> anything that can do actions DO THIS PAGE THIS ISNT DONE
-<https://www.thaumworld.xyz/character/>
-
-## actions
-> how characters do things
-<https://www.thaumworld.xyz/actions/>
 
 ## proficiency
 > a measurement of a characters specified knowledge or abilities 
