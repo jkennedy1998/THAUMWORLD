@@ -1,5 +1,5 @@
 ﻿# magnitude
-> seeing the universe at scale
+> rolls, damage, hardness, conductivity, weight, size, temparature, speed, and time at scale
 
 MAGNITUDE, or MAG is a representation of potency, power, and scale. 
 It is used to narrate a power measurements between potions, weapons, spells and all game mechanics.
@@ -331,24 +331,24 @@ MAG     description of comparable magnitudes
 
 >  0    a short perceived moment
 
->  1    1 ACTION / TURN
+>  1    1 TURN
 
->  2    1 ROUND (about 6 seconds)
+>  2    1 ROUND or about 6 seconds
 
 >  3    2 ROUNDS
 
 >  4    5 ROUNDS
 
->  5    10 ROUNDS (about 1 minute)
+>  5    10 ROUNDS or about 1 minute
 
->  6    600 ROUNDS (about 1 hour)
+>  6    600 ROUNDS or about 1 hour
 
->  7    1 EXTENDED ACTION (about 2 hours)
+>  7    1 EXTENDED ACTION or about 2 hours
 
 >  8    2 EXTENDED ACTIONS
 
 >  9    5 EXTENDED ACTIONS
 
-> 10    10 EXTENDED ACTIONS / 1 DAY
+> 10    10 EXTENDED ACTIONS or 1 DAY
 
 ---

@@ -28,7 +28,7 @@ these are broken into sections for ease of parsing. higher sections are more bas
 <https://www.thaumworld.xyz/stats-n-bonuses/>
 
 ## magnitude
-> seeing the universe at scale
+> rolls, damage, hardness, conductivity, weight, size, temparature, speed, and time at scale
 <https://www.thaumworld.xyz/magnitude/>
 
 ## dice-rolls-n-nat
@@ -125,6 +125,11 @@ these are broken into sections for ease of parsing. higher sections are more bas
 ## health
 > how alive you are from not getting stabbed
 <https://www.thaumworld.xyz/health/>
+
+## senses
+> how CHARACTERs become AWARE of the world
+<https://www.thaumworld.xyz/senses/>
+
 
 ## diet
 > the resources someone needs to sustain life
