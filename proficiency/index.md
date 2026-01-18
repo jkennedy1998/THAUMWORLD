@@ -6,6 +6,9 @@ A PROFICIENCY represents how well a CHARACTER knows a specific field, tool, or p
 The list of starting PROFICIENCIES represents what a CHARACTER may know when entering the world.
 Additional PROFICIENCIES can be learned later through play.
 
+when something says "a relevant PROFFICIENCY" it means a really relevant one. 
+> you cant stretch truths to roll irrelevant things. the honed experience should reasonably help you do the task
+
 PROFICIENCY can be measured in MAGNITUDE.
 PROF MAG scales without limit and can be negative.
 

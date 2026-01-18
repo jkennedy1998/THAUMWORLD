@@ -6,7 +6,10 @@ Every ACTION fits into an ACTION TYPE.
 ACTION TYPES define cost, rolls, and outcomes.
 
 Some ACTIONS have RESULT ROLLS.
+> things that are easy enough to do that you wont fail at them dont need rolls
+
 Some ACTIONS have POTENCY ROLLS.
+> things that have stable outcomes dont need rolls
 
 FULL and PARTIAL ACTIONS can be done within TIMED EVENTS each TURN.
 EXTENDED ACTIONS take around 2 hours.

@@ -1,8 +1,9 @@
 ﻿# result-rolls
-> how to tell the result of something
+> how to tell the result of something that might fair
 
 RESULT ROLLs always use a D20.
 they represent a CHARACTER’s attempt at an ACTION that might fail.
+> result rolls are not neccessary for all actions, like reading signs, opening doors, or speaking
 
 > aiming and firing a bow
 > climbing a slippery wall
@@ -27,17 +28,17 @@ RESULT ROLL DICE:
 > D20
 
 RESULT ROLL effectors:
-> + relevant PROFICIENCY MAG
-> + 1 STAT BONUS (from above prof)
+> + 1 PROFICIENCY MAGNITUDE (not the roll, just a single bonus if its really relevant. each action should have a prof)
+> + 1 STAT BONUS ( from the most relevant prof ) 
 > + infinite EFFECTORS
 
-CHALLENGE RATING examples:
+## CHALLENGE RATING examples:
 > so you get a sense of scale for the perspective of the characters we will be playing as
 
 difficulty          | CR
 --------------------|----
-creatures           | -10
-lesser than you     | -5
+animals can do it   | -10
+smart animals       | -5
 irrelevantly easy   | 0
 intuitive           | 5
 takes concentration | 10
