@@ -10,6 +10,9 @@ EFFECTOR TYPES are listed below.
 This is the maths,
 and the maths is done in this order.
 
+this is just a way of referencing the change of ROLLS, not something you have to memorize. 
+the change of rolls is put in order so it can me done mechanically.
+
 ## EFFECTOR TYPES
 
 SHIFT  
@@ -19,15 +22,5 @@ SHIFT
 SCALE  
 >× , ÷  
 >multiplication and division  
-
-
-MAG  
->...MAG...  
->changing qualities  
-
-
-TAG  
-( TAG )  
->exceptions beyond maths  
 
 

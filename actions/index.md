@@ -11,8 +11,8 @@ Some ACTIONS have POTENCY ROLLS.
 FULL and PARTIAL ACTIONS can be done within TIMED EVENTS each TURN.
 EXTENDED ACTIONS take around 2 hours.
 
-FULL ACTIONS use all EFFECTORS.
-PARTIAL ACTIONS use only the NAT roll.
+FULL ACTIONS use normal equations for ROLLs.
+PARTIAL ACTIONS only use negative changes to ROLLs.
 
 ---
 

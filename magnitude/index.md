@@ -157,32 +157,32 @@ MAG   description of comparable magnitudes          thaum impact
 > how heavy something is
 WEIGHT is the measurement of the mass of something
 
-MAG    description of comparable magnitudes
-> -2   the turbulence of general atmospheres, a flea, a hair, a puff of pollen
+MAG    WEIGHT   description of comparable magnitudes
+> -2   0.01     the turbulence of general atmospheres, a flea, a hair, a puff of pollen
 
-> -1   a feather, a single coin, a key, a ring or small trinket, most ammo, xs character of flesh
+> -1   0.1      a feather, a single coin, a key, a ring or small trinket, most ammo, xs + character of flesh
 
-> 0    a dagger, a wand, a small stone, a light bow, light non-torso armor, light tools
+> 0    1        a dagger, a wand, a small stone, a light bow, light non-torso armor, light tools
 
-> 1    a medium tool, a staff, light crafting kits, medium non-torso armor, light torso armor
+> 1    5        a medium tool, a staff, light crafting kits, medium non-torso armor, light torso armor
 
-> 2    a heavy metal tool, heavy crafting kits, medium torso armor, heavy non-torso armor
+> 2    10       a heavy metal tool, heavy crafting kits, medium torso armor, heavy non-torso armor
 
-> 3    heavy torso armor, a chest
+> 3    15       heavy torso armor, a chest, an s- creature of flesh
 
-> 4    a crate full of light goods, an s sized creature of flesh
+> 4    35       a crate full of light goods, an s+ sized creature of flesh
 
-> 5    a crate full of heavy goods, an m sized creature of flesh
+> 5    75       a crate full of heavy goods, an m- sized creature of flesh
 
-> 6    an anvil, a l sized creature of flesh
+> 6    125      an anvil, an m+ sized creature of flesh 
 
-> 7    a small boulder
+> 7    250      a small boulder, an l sized creature of flesh
 
-> 8    a xl sized creature made of stone
+> 8    500      an l+ creature of flesh
 
-> 9    a loaded wagon
+> 9    1000     a loaded wagon
 
-> 10   a piece of a building
+> 10   2000     about 1 ton, a l sized creature made of stone
 
 ---
 

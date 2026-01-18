@@ -7,7 +7,7 @@ they only apply to the RESULT ROLL.
 > 0  : no roll, mundane
 > 10 : averagely complex
 > 20 : pretty hard task
-> 50 : moving boulders
+> 50 : tasks above your head that you could do if you had a lot of help
 
 a ROLL procs a CHALLENGE RATING if it is above or equal to it.
 

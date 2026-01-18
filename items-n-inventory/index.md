@@ -24,16 +24,20 @@ ITEMs have a WEIGHT always listed, that contributes to WEIGHT PENALTY through be
 
 ---
 
-##creating new items and ballancing rules
+## creating new items and ballancing rules
 > this section will probably move later into a ballancing page.
 
 When creating new ITEMS, consider the following:
-every time you add a new TAG, subtract a point of MAGNITUDE from somewhere else in the ITEM's design.
-there are some examples below that help guide this process. 
+use MAG of an ITEM to generalize a boduget for how many TAGs or MAGs you can add to an ITEM
+
+## workflow of making new items
 
 1: determine mag of item
 2: give it tags
 3: populate the tag rules on the item with account to the mag cost of the tags
+
+see examples below for clearer rules, 
+and default MAGs below those to understand the bounds of a MAG 1 ITEM
 
 ## example 1 :  a sword
 MAG 3 item
@@ -82,3 +86,33 @@ done!
 MAG 3 item
 it uses 2 MAG to account for the size something takes up, via the MAG chart, relative to the max free range of an item.
 it uses 1 MAG for any implied rolls, but more importantly tracks immense volume and is a little easier to track for sale, crafting, or trade
+
+## MAG 1 item bounds
+
+ROLL : MAG 0 or 1 ( flat 1 or 1d2 )
+> what people have to roll when using this item for POTENCY
+
+DAMAGE : correlates with ROLL
+> this is narrative mostly for effects, damage, and senses
+
+HARDNESS : MAG 0 or 1 ( paper, cloth, snow, fruit, meat )
+> very soft or hard things cost MAG
+
+CONDUCTIVITY : MAG 0
+> all conductive or non conductive materials cost MAG 
+WEIGHT : -1 to 1 ( a feather to a medium too or light armor )
+
+SIZE : -1 to 1 ( a grape to a chestplate )
+> very very small or large things cost MAG
+
+TEMPARATURE : default is the TEMPARATURE of the current WORLD TILE
+> you could ballance hot food in cold places this way
+
+DISTACE : the range of -1 to 1 ( a few inches to the adjacent TILE )
+> things that reach farther than this cost MAG
+
+SPEED : with a relative speed measured from MAG 0 to MAG 1 (+1 per round or +1 per action )
+> things that add speed in meaningful ways or shoot projectiles cost MAG
+
+TIME : with a time of 0
+> timers and things that happen really quickly cost MAG
