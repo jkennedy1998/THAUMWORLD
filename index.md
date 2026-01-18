@@ -16,6 +16,11 @@ the RULES-INDEX file acts as an index for all the rules pages available for THAU
 for more information on the setup of index.md files ( how you are reading this website and the markdown rules for formatting ) see the following page.
 <https://www.thaumworld.xyz/index-files-rules-n-structure/>
 
+for playtesting reasons this is the link to an empty character sheet
+<https://www.thaumworld.xyz/character-sheet-template/>
+for playtesting reasons this is the link to a filled character sheet
+<https://www.thaumworld.xyz/character-sheet-j/>
+
 ## if you are a human reading this
 you are one of my close friends or family.
 this is a project in development and im working to create something artfull and with intent using a tabletop game ive been writing since college, and with developing text based ai tools.
