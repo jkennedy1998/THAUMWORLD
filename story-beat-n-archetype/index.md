@@ -36,10 +36,10 @@ you can find all the availible ARCHETYPEs on the ARCHETYPE TABLE, as well as the
 
 ## the length of a STORY BEAT
 the STORY has how long the STORY should last, and how many STORY BEATs there should be.
-each STORY BEAT lasts an amount of EXTENDED ACTIONS based on the CONTENT chosen for that STORY BEAT.
+STORY BEATS are mostly evenly distributed aloing a STORY in regards to time
 > if this STORY takes around 50 EXTENDED ACTIONS to complete, 
 > and there are 5 STORY BEATs, 
-> each STORY BEAT should take around 10 EXTENDED ACTIONS to complete worth of travel, waiting, battling, talking, exploring, and interacting.
+> each STORY BEAT should take around 10 EXTENDED ACTIONS to complete worth of travel, waiting, battling, talking, exploring, and interacting in order to keep moving forward.
 
 ## when a STORY BEAT advances
 when SUCCESS CONDITIONS are met on a NECCESSARY STORY BEAT

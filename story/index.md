@@ -48,11 +48,12 @@ create all CHARACTERs needed
 create the STORY, filling in the details of the abstract content.
 these details should be semi tailored to the ENEMY or ALLY in the STARTING STORY BEAT and their NPC CHARACTER SHEET
 determine during this stage if the STORY BEAT is flagged as NECCESSARY if the ENDING STORY BEAT relies on this BREATHING STORY BEAT
+determine the SUCCESS and FAILURE CONDITIONS of NECCESSARY STORY BEATs now.
 
 ### 7
 run through the STORY one more time for general cohesion and good spacing between STORY BEATs
 link two CONTENT TYPES with one piece of INFORMATION irrelevant to the quest
-link another two CONTENT TYPES with one piece of INFORMATION irrelevant to the quest
+if the INFORMATION is explored, the lore should feel irrelevant to the quest signalling a wrong lead
 
 ### 8
 store this STORY in memory for later use

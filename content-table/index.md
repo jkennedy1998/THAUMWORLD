@@ -5,11 +5,9 @@
 > negative MAG (from disonance) makes things harder, more dangerous, or more complex
 > positive MAG (from harmony) makes things easier, safer, or more lucrative
 
-
-
 ### ENEMY-CHARACTER
 if an nearby NPC CHARACTER that is within 2 MAG of the ACTORS CHARACTER MAG exists, and they are not already on a STORY, 
-there is a 20% chance to use them.
+there is a 20% chance to use them. this should be done with every possible NPC nearby that is in memory
 otherwise create a new NPC CHARACTER and add them to the NPC LIST.
 this ENEMY has a GOAL that may oppose yours, but doesnt neccesarily have to do with you particularly.
 this ENEMY should be equal or within 2 MAG of the ACTOR's CHARACTER MAG
@@ -28,7 +26,8 @@ DISONANCE MAG SHOP :
 
 
 ### ALLY-CHARACTER
-if an nearby NPC CHARACTER that is within 2 MAG of the ACTORS CHARACTER MAG exists, and they are not already on a STORY, use them.
+if an nearby NPC CHARACTER that is within 2 MAG of the ACTORS CHARACTER MAG exists, and they are not already on a STORY, 
+there is a 20% chance to use them. this should be done with every possible NPC nearby that is in memory
 otherwise create a new NPC CHARACTER and add them to the NPC LIST. 
 this ALLY has a GOAL of their own that has nothing to do with yours or may intersect with it in some minor way.
 the ALLY should be equal or within 2 MAG of the ACTOR's CHARACTER MAG
