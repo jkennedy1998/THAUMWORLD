@@ -110,7 +110,7 @@ these are broken into sections for ease of parsing. higher sections are more bas
 
 ### story-beat-content
 > what happens during a story beat, set by the archetype table and modulated with MAG
-<https://www.thaumworld.xyz/story-beat-content/>
+<https://www.thaumworld.xyz/content-table/>
 
 
 

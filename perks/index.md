@@ -6,6 +6,11 @@ that change them in some way.
 
 PERK POINTS can buy PERKs off of the PERK TREE
 
+ACTORs get 1 PERK POINT when they complete a STORY.
+
+CHARACTER MAG is a measurement of PERK POINTS and increases with each STORY completed by 1 along with perk points.
+> 8 at MAG 2, 9 at MAG 3, ect
+
 ## common PREREQUISITES you may see
 
 PERKS have PREREQUISITES which need to be fullfilled before you can purchase the PERK. 

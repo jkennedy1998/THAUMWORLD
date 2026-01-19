@@ -35,3 +35,6 @@ If you increase your CON BONUS:
 - CURRENT HEALTH does not change
 
 HEALTH cannot exceed MAX HEALTH.
+
+MAX HEALTH can be calculated as :
+10 + ( CON BONUS ) + any EFFECTORS

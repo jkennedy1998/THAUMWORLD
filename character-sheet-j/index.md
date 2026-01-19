@@ -197,8 +197,8 @@ TILE :
 
 ## LORE: here
 
-## LEVEL : 1
-## PERK POINTS : 7
+## CHARACTER MAG 1
+## PERK POINTS : 7 / 7 total given
 
 ## PERKs, upgrades bought through the PERK TREE with PERK POINTS given on LEVELING UP from CHARACTER CREATIION and updated any SLEEP or REPAIR EXTENDED ACTION
 

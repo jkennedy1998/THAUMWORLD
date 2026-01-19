@@ -1,9 +1,10 @@
 ﻿# story-beat-n-archetype
 > an event that happens along a story
 
-a STORY BEAT is a point in a STORY where the ACTOR's movement to a goal is paced by the STORY TELLER.
-a STORY BEAT has CONTENT that sets rules for the paced moment.
-STORY BEATs get their CONTENT from their ARCHETYPE chosen by the STORY TELLER.
+a STORY BEAT is a point in a STORY where the ACTOR's movement paced by CONTENT.
+STORY BEATs get their CONTENT from their ARCHETYPE of the STORY they live in
+CONTENT is just what happens during one of these STORY BEATs
+> see the story-beat-content page for a list of availible content to be grabbed at random
 STORY BEATs have DISSONANCE MAG, and HARMONY MAG
 > a budget system to add positive and negative modifiers to the CONTENT of the ARCHETYPE.
 STORY BEATs have a type called an ARCHETYPE.

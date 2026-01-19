@@ -15,134 +15,120 @@ this is for storage of CHARACTERs in txt
 ## NAME
 here
 
+## LORE: 
+backstory : here
+family : here
+relationship : here
+
+## APPEARANCE
+SIZE : here
+
+build : here
+
+HAIR / FUR / SHELL / SKIN COLOR : here
+
+EYE COLOR : here
+
+DISTINGUISHING FEATURES : here
+
+CLOTHING STYLE : here
+
+ACCESSORIES : here
+
+## PERSONALITY
+STORY GOAL : here
+fear : here
+flaw : here
+hobby : here
+passion : here
+things that make them happy : here
+favorite food/drink : here
+things that make them sad : here
+things that make them angry : here
+things that they have a hard time resisting : here
+
 ## KIND, SEX, AGE, SEXUAL-ORIENTATION
-here, here, here, here
+here | here | here | here
 
 ## LANGUAGES
 here
 
-## SIZE
-here
-
 ## SENSES
-> light : here | aroma : here | pressure : herr | thaum : here
+> light : here MAG | aroma : here MAG | pressure : here MAG | thaum : here MAG
 
 ## TEMPERATURE RANGE : a lower MAGNITUDE for cold, and a higher MAGNITUDE for hot from KIND
 
 ## STATISTICS
-CONSTITUTION : here
+> the default STAT array is as follows with the BONUS in parenthesis. you can assign these values as you see fit once at CHARACTER CREATION
+> 56 (+3), 54 (+2), 52 (+1), 48 (-1), 46 (-2), 44 (-3)
 
-STRENGTH : here
-
-DEXTERITY : here
-
-WISDOM : here
-
-INTELEGENCE : here
-
-CHARISMA : here
+CON : here | STR : here | DEX : here | WIS : here | INT : here | CHA : here
 
 ## PROFFICIENCIES, a count of how MAGNITUDE you have of the 21 different PROFFICICENCIES
+> a MAG 1 CHARACTER gets 4 to start. more can be bought through PERKs on the PERK TREE
 
-PAIN :  here
+PAIN : here MAG 
 
-BRAWN :  here
+BRAWN : 0 MAG
 
-ACCURACY :  here
+ACCURACY : 0 MAG | SPEED : 0 MAG | QUIET : 0 MAG 
 
-SPEED :  here
+HEARTH : 0 MAG | BEASTS : 0 MAG | INSTINCT : 0 MAG | RESONATION : 0 MAG
 
-QUIET :  here
+ARCANA : 0 MAG | GOLEMANCY : 0 MAG | HISTORY : 0 MAG | ORGANICA : 0 MAG | MECHANICS : 0 MAG
 
-HEARTH :  here
-
-BEASTS :  here
-
-INSTINCT :  here
-
-RESONATION :  here
-
-ARCANA :  here
-
-GOLEMANCY :  here
-
-HISTORY :  here
-
-ORGANICA :  here
-
-MECHANICS :  here
-
-DIETIC :  here
-
-STABILITY :  here
-
-DECEPTION :  here
-
-POWER :  here
-
-PERFORMANCE :  here
-
-COMMUNICATION :  here
+DIETIC : 0 MAG | STABILITY : 0 MAG | DECEPTION : 0 MAG | POWER : 0 MAG | PERFORMANCE : 0 MAG | COMMUNICATION : 0 MAG
 
 ---
+## HEALTH and ACTIONS
+//for the equations, flatten them during character creation, and then track the current values when updated
 
-## SLEEP or VIGOR based recovery
-
-## EVASION : from equation
-
-## FORTITUDE : from equation
-
-## VIGOR : 1 current / 1 maximum
-## VIGOR MAGNITUDE : 1
-
-## HEALTH : 1 current / 1 maximum
-
-## ACTIONS :  1 current / 1 maximum
-## PARTIAL ACTIONS : 1 current / 1 maximum
+SLEEP or VIGOR based recovery
+EVASION : here
+> 10 + DEX - WEIGHT PENALTY
+FORTITUDE : here
+VIGOR : 1 current / 1 maximum
+VIGOR MAGNITUDE : 1
+HEALTH : here current / here maximum
+> 10 + ( CON BONUS ) + any EFFECTORS
+ACTIONS :  1 current / 1 maximum
+PARTIAL ACTIONS : 1 current / 1 maximum
 
 ---
 
 ## MOVEMENT
 
-> WALK : here
-
-> CLIMB : here 
-
-> SWIM : here
-
-> FLY : here
+WALK : here | CLIMB : here | SWIM : here | FLY : here
 
 ---
 
 ## SPELL CASTING
 
-> CALLS : 0
+CALLS : 0  | THAUM : 1 current / 1 maximum
 
-> SPELL SLOTS : 0
-
-> THAUM : 1 current / 1 maximum
-
-> THAUMPACITY : 0
-
-> THAUM REGEN : 1
+THAUMPACITY : 0 | THAUM REGEN : 1 | SPELL SLOTS : 0
 
 ---
 
-## LOOSE INVENTORY
+## INVENTORY
 > list items here in this format :
 
 name of item     |  X weight  | [ TAGNAME : information to be tracked. this is a template TAG ] if there are any tags on this item
 
-## EQUIPTMENT
+## INVENTORY INFO
 
+CARRY CAPACITY : here
+> (+2+SIZE MAG + STR BONUS + BRAWN MAG + any effectors) * 20
+
+> when your INVENTORY WEIGHT exceeds your CARRY CAPACITY, apply the one TAG of [ OVERENCUMBERED ] per 5 units of weight over the CARRY CAPACITY
+> [ OVERENCUMBERED ] : -1 to all MOVEMENT and +1 WEIGHT PENALTY. full rules listed in the TAG TABLE
+
+## EQUIPTMENT
 > BODY SLOTS, and their tracked armor that is equipt
 
 body slot name here  |  item equipt  | any tags this body slot has
 
 > EQUIPTMENT WEIGHT, how much your current EQUIPT ITEMS weighs
-
-> CARRY CAPACITY : from equation
-
 > WEIGHT PENALTY : 0
 
 
@@ -161,10 +147,9 @@ description of TAG here
 
 ---
 
-## LORE: here
 
-## total PERK POINTS
-## spent PERK POINTS
 
-## PERKs, upgrades bought through the PERK TREE with PERK POINTS given on LEVELING UP from CHARACTER CREATIION and updated any SLEEP or REPAIR EXTENDED ACTION
+## CHARACTER MAG (total alloted perk points is CHARACTER MAG + 6)
+
+## PERKs, upgrades bought through the PERK TREE with PERK POINTS given on STORY completion updated any SLEEP or REPAIR EXTENDED ACTION
 

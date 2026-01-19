@@ -80,6 +80,4 @@ a CHARACTER has the following. each item is represented on their CHARACTER SHEET
 
 > PERKs, upgrades bought through the PERK TREE with PERK POINTS given on LEVELING UP from CHARACTER CREATIION and updated any SLEEP or REPAIR EXTENDED ACTION
 
-> PERK POINTS, points awarded on LEVELING UP starting at 7
-
-> LEVEL, an abstract of how far a CHARACTER has come starting at 1
+> PERK POINTS, current and total. starting at 7 at CHARACTER MAG 1, and increasing by 1 (in CHARACTER MAG and PERK POINTS) per STORY COMPLETION. 
