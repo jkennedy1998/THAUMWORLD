@@ -53,7 +53,7 @@ these are broken into sections for ease of parsing. higher sections are more bas
 <https://www.thaumworld.xyz/potency-rolls/>
 
 ### character
-> anything that can do actions
+> anything that can do actions, has a MAG representing additive perks
 <https://www.thaumworld.xyz/character/>
 
 ### actions

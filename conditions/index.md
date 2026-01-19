@@ -1,7 +1,7 @@
 ﻿# conditions
 > observations of things
 
-CONDITIONS are observations of the game.
+CONDITIONS are observations of the game that a CHARACTER usually watches.
 They describe things that are true, false, happening, or sensed.
 
 A CHARACTER can only observe CONDITIONS that are within their SENSES.
@@ -16,7 +16,7 @@ Some CONDITIONS are used for spell crafting or machines.
 The occurrence of an ACTION or ACTION TYPE that you can SENSE.
 > when they attack, if I see someone HELP this guy I’ll shoot him  
 
-**when it procs:**  
+**when it the CONDITION is triggered**  
 immediately after the ACTION  
 
 ---
@@ -25,7 +25,7 @@ immediately after the ACTION
 When the COUNT of something reaches a set limit that you can SENSE.
 > when there are three bandits in the room, when they reach 0 HEALTH  
 
-**when it procs:**  
+**when it the CONDITION is triggered**  
 immediately after the limit is hit  
 
 ---
@@ -34,16 +34,16 @@ immediately after the limit is hit
 When a SENSE or specific SENSE is triggered.
 > if I smell sulfur, as soon as I see a light, if I hear a noise, if this guy farts  
 
-**when it procs:**  
+**when it the CONDITION is triggered**  
 immediately after you sense it  
 
 ---
 
 ## state
 When a TRUTH becomes uncertain or falsified.
-> as long as everyone stays calm, when this object is here, when it’s sunny  
+> as long as everyone stays calm, when this object is here, when it’s sunny, when a CHARACTER is DEAD
 
-**when it procs:**  
+**when it the CONDITION is triggered**  
 immediately after it becomes false  
 
 ---
@@ -52,6 +52,6 @@ immediately after it becomes false
 When a timer using TURN, ROUND, or EXTENDED ACTION finishes
 > delayed spells, magic machines, TAGs
 
-**when it procs:**  
+**when it the CONDITION is triggered**  
 immediately after the timer is up  
 

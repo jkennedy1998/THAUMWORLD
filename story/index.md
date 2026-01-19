@@ -6,6 +6,11 @@ the STORY is not the end of the game, but it does grant one PERK POINT to all AC
 each STORY starts on the first STORY BEAT.
 > see CREATING THE STORY further towards the bottom of this page for more infromation on how to create one
 
+a STORY should include on average, padded out between total STORY BEATS
+> 30 - 50 ROLLs from the ACTORS in free time or exploration towards STORY BEATs
+> 20 EXTENEDED ACTIONS to 1 WEEK of in game time passed through active events during STORY BEATs, travel or downtime.
+> 6 - 10 STORY BEATS
+
 ---
 
 ## WHAT A STORY HAS
@@ -24,13 +29,30 @@ on creation of a STORY choose a random STORY FLOW from the STORY FLOW TYPES
 
 ## creating the STORY
 
-### 1 : asses place in the story
+### 1 : 
+choose a STARTING and ENDING ARCHETYPE. 
 
-### 2 : choose a STORY FLOW at random
+### 2 : 
+choose a STORY FLOW at random from the STORY FLOW TYPES
 
-### 2 : choose an ARCHETYPE
->  uses the ARCHETYPE CHART
-> step 2 uses the 
+### 3 : 
+choose an ARCHETYPE for each BREATHING STORY BEAT in between the STARTING and ENDING STORY BEATS
 
-### 3 : spend dissonance and harmony budget
+### 4 : 
+spend DISSONANCE and HARMONY budget per the STORY FLOW on the STARTING and ENDING STORY BEATS
 
+### 5
+create all CHARACTERs needed
+
+### 6:
+create the STORY, filling in the details of the abstract content.
+these details should be semi tailored to the ENEMY or ALLY in the STARTING STORY BEAT and their NPC CHARACTER SHEET
+determine during this stage if the STORY BEAT is flagged as NECCESSARY if the ENDING STORY BEAT relies on this BREATHING STORY BEAT
+
+### 7
+run through the STORY one more time for general cohesion and good spacing between STORY BEATs
+link two CONTENT TYPES with one piece of INFORMATION irrelevant to the quest
+link another two CONTENT TYPES with one piece of INFORMATION irrelevant to the quest
+
+### 8
+store this STORY in memory for later use
