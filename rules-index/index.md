@@ -108,7 +108,7 @@ these are broken into sections for ease of parsing. higher sections are more bas
 > a list of scalable contents for story-beats
 <https://www.thaumworld.xyz/archetype-table/>
 
-### story-beat-content
+# content-table
 > what happens during a story beat, set by the archetype table and modulated with MAG
 <https://www.thaumworld.xyz/content-table/>
 
