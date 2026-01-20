@@ -12,8 +12,8 @@ this is for storage of CHARACTERs in txt
 
 # NPC CHARACTER SHEET START
 
-## NAME
-here
+## NAME, TITLE
+here, here
 
 ## LORE: 
 backstory : here
@@ -149,7 +149,7 @@ description of TAG here
 
 
 
-## CHARACTER MAG (total alloted perk points is CHARACTER MAG + 6)
+## CHARACTER MAG (total granted perk points is CHARACTER MAG + 6)
 
 ## PERKs, upgrades bought through the PERK TREE with PERK POINTS given on STORY completion updated any SLEEP or REPAIR EXTENDED ACTION
 

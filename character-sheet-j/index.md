@@ -1,5 +1,8 @@
-﻿# character-sheet-j
+﻿# character-sheet-J
 > raw txt storage of the CHARACTER, J
+
+this is for storage of CHARACTERs in txt
+> like for use in an ai memory or txt file to be parsed by an ai.
 
 ## formatting
 > dont change the format of this text. keep the markdown. the list below should have a "> "infront of every line, and a "## " or a "# " markdown for titles
@@ -8,163 +11,115 @@
 
 # the CHARACTER SHEET
 
-## NAME
-J
+## NAME, TITLE
+J, local artist
 
-## TITLE, 
-local artist
+## APPEARANCE
+SIZE : m+
 
-## KIND
-naked ape
+build : lean, androgenous, slender, slight tall but not by much.
+
+HAIR SKIN COLOR : dirty blonde hair thats long and decorated. skin is white with a slight tan
+
+EYE COLOR : hazel
+
+DISTINGUISHING FEATURES : long decorated hair (usually a small clip or wooden clasp), dangly earings, and colorful garb
+
+CLOTHING STYLE : monochromatic color schemes
+
+ACCESSORIES : earings, sometimes painted nails, usually a small bag
+
+## KIND, SEX, AGE, SEXUAL-ORIENTATION
+naked ape | male | 27 | pan
 
 ## LANGUAGES 
 apish
 
-## SEX 
-male, nonbinary gender
-
-## SIZE
-m+ / 3
-
-## AGE
-28
-
 ## SENSES
-> light : 3
-
-> aroma : 2
-
-> pressure : 3
-
->thaum : 0
+> light : 3 MAG | aroma : 2 MAG | pressure : 3 MAG | thaum : 0 MAG
 
 ## TEMPERATURE RANGE : a lower MAGNITUDE for cold, and a higher MAGNITUDE for hot from KIND
+-1 MAG to 1 MAG
 
 ## STATISTICS
-CONSTITUTION : 48  -1 bonus
+> the default STAT array is as follows with the BONUS in parenthesis. you can assign these values as you see fit once at CHARACTER CREATION
+> 56 (+3), 54 (+2), 52 (+1), 48 (-1), 46 (-2), 44 (-3)
 
-STRENGTH : 46  -2 bonus
-
-DEXTERITY : 58  +4 bonus
-
-WISDOM : 44  -3 bonus
-
-INTELEGENCE : 54  +2 bonus
-
-CHARISMA : 52  +1 bonus
+CON : 48 (-1) | STR : 46 (-2) | DEX : 58 (+4) | WIS : 44 (-3) | INT : 54 (+2) | CHA : 52 (+1)
 
 ## PROFFICIENCIES, a count of how MAGNITUDE you have of the 21 different PROFFICICENCIES
+> a MAG 1 CHARACTER gets 4 to start. more can be bought through PERKs on the PERK TREE
 
-PAIN :  0
+PAIN : here MAG 
 
-BRAWN :  0
+BRAWN : 0 MAG
 
-ACCURACY :  1
+ACCURACY : 1 MAG | SPEED : 0 MAG | QUIET : 0 MAG 
 
-SPEED :  0
+HEARTH : 0 MAG | BEASTS : 1 MAG | INSTINCT : 0 MAG | RESONATION : 0 MAG
 
-QUIET :  0
+ARCANA : 0 MAG | GOLEMANCY : 0 MAG | HISTORY : 1 MAG | ORGANICA : 0 MAG | MECHANICS : 0 MAG
 
-HEARTH :  0
-
-BEASTS :  1
-
-INSTINCT :  0
-
-RESONATION :  0
-
-ARCANA :  0
-
-GOLEMANCY :  0
-
-HISTORY :  1
-
-ORGANICA :  0
-
-MECHANICS :  0
-
-DIETIC :  0
-
-STABILITY :  0
-
-DECEPTION :  0
-
-POWER :  0
-
-PERFORMANCE :  1
-
-COMMUNICATION :  0
+DIETIC : 0 MAG | STABILITY : 0 MAG | DECEPTION : 0 MAG | POWER : 0 MAG | PERFORMANCE : 1 MAG | COMMUNICATION : 0 MAG
 
 ---
 
-## SLEEP based recovery
-## DIET of CARNE and HERBA
+## HEALTH and ACTIONS
+//for the equations, flatten them during character creation, and then track the current values when updated
 
-## EVASION : from equation
-
-## FORTITUDE : from equation
-
-## VIGOR : 1 current / 1 maximum
-## VIGOR MAGNITUDE : 1
-
-## HEALTH : 1 current / 1 maximum
-
-## ACTIONS :  1 current / 1 maximum
-## PARTIAL ACTIONS : 1 current / 1 maximum
+SLEEP based recovery
+EVASION : 8
+> 10 + DEX - WEIGHT PENALTY + any EFFECTORS
+FORTITUDE : 11
+> 10 + CHA + STABILITY MAG + any EFFECTORS
+VIGOR : 1 current / 1 maximum
+VIGOR MAGNITUDE : 1
+HEALTH : 9 current / 9 maximum
+> 10 + ( CON BONUS ) + any EFFECTORS
+ACTIONS :  1 current / 1 maximum
+PARTIAL ACTIONS : 1 current / 1 maximum
 
 ---
 
 ## MOVEMENT
 
-> WALK : 6
-
-> CLIMB : 1 
-
-> SWIM : 2
-
-> FLY : -
+WALK : 6 | CLIMB : 1 | SWIM : 2 | FLY : -
 
 ---
 
 ## SPELL CASTING
 
-> CALLS : 0
+CALLS : 0  | THAUM : 1 current / 1 maximum
 
-> SPELL SLOTS : 0
-
-> THAUM : 1 current / 1 maximum
-
-> THAUMPACITY : 0
-
-> THAUM REGEN : 1
+THAUMPACITY : 0 | THAUM REGEN : 1 | SPELL SLOTS : 0
 
 ---
 
-## LOOSE INVENTORY
+## INVENTORY
 > list items here in this format :
 
-telescope mag2    |  1 weight  | [ telescopic ]
-> use gives me +1 light sense when equipt for long distances, but does not improve my spectrum range
+name of item     |  X weight  | [ TAGNAME : information to be tracked. this is a template TAG ] if there are any tags on this item
 
-a cute leather coat mag2    |  1 weight  | [ 1 physical armor ]
-> +1 armor for my chest body slot, 1 physical damage reduction
+## INVENTORY INFO
 
-a single white button down blouse : Mag 0 item
-a single pair of baggy redish pants : Mag 0
+CARRY CAPACITY : here
+> (+2+SIZE MAG + STR BONUS + BRAWN MAG + any effectors) * 20
+
+> when your INVENTORY WEIGHT exceeds your CARRY CAPACITY, apply the one TAG of [ OVERENCUMBERED ] per 5 units of weight over the CARRY CAPACITY
+> [ OVERENCUMBERED ] : -1 to all MOVEMENT and +1 WEIGHT PENALTY. full rules listed in the TAG TABLE
 
 ## EQUIPTMENT
+> BODY SLOTS, and their tracked armor that is equipt
 
-head (vital) |  -  | -
-chest (vital) |  a cute leather coat  | 1 physical damage reduction
-left hand |  -  | -
-right hand |  -  | -
-left leg |  cloth garbs, baggy reddish pants  | -
-right leg |  cloth garbs, baggy reddish pants  | -
+body slot      | weight  |  desc / tags    
+head (vital)   |  -      | 
+chest (vital)  |   4      |  a cute light leather coat  | 1 physical damage reduction
+left hand      |  -      | 
+right hand     |  -      | 
+left leg       |         |  cloth garbs, baggy reddish pants 
+right leg      |         |  cloth garbs, baggy reddish pants  
 
 > EQUIPTMENT WEIGHT, how much your current EQUIPT ITEMS weighs
-
-> CARRY CAPACITY : from equation
-
 > WEIGHT PENALTY : 0
 
 
@@ -179,28 +134,19 @@ right leg |  cloth garbs, baggy reddish pants  | -
 [ TAGNAME : information to be tracked. this is a template TAG ]
 > PROFICIENCY : here, here if there are two, ...
 > [ META TAG if any ], [ META TAG 2 if any ], ...
-description of TAG in a general sense
-
-CHARACTER : 
-> description here
-
-ITEM : 
-> description here
-
-TILE : 
-> description here
-
---- 
-> current tags go below here
+description of TAG here
 
 ---
 
 ## LORE: here
 
-## CHARACTER MAG 1
-## PERK POINTS : 7 / 7 total given
+---
 
-## PERKs, upgrades bought through the PERK TREE with PERK POINTS given on LEVELING UP from CHARACTER CREATIION and updated any SLEEP or REPAIR EXTENDED ACTION
+## CHARACTER MAG (total granted perk points is CHARACTER MAG + 6)
+
+## PERKs, upgrades bought through the PERK TREE with PERK POINTS given on STORY completion updated any SLEEP or REPAIR EXTENDED ACTION
+> perks are below this point. this is just perks.
+
 
 ### AMONG THE APES : GIFT OF KIND
 > your CLIMBING SPEED raises to 2
@@ -212,4 +158,3 @@ TILE :
 ### LONG WAY FROM HOME : FLAW OF KIND
 > you are gain -1 REROLL for RESULT and POTENCY rolls, favored against you
 > getting rid of disease, not getting disease, taking damage from 
-
