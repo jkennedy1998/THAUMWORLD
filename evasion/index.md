@@ -14,10 +14,10 @@ plus DEX BONUS
 plus EFFECTORS  
 > extra sprinkles  
 
-minus ARMOR PENALTIES  
+minus WEIGHT PENALTY  
 > the scaled weight of gear and stability  
 
 
-NAKED EVASION is EVASION without ARMOR PENALTIES.
+NAKED EVASION is EVASION without WEIGHT PENALTY.
 > useful as a baseline value  
 > piercing attacks may reference this

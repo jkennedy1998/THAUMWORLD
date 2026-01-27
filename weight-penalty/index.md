@@ -2,7 +2,7 @@
 > when your collective items slow you down
 
 EQUIPTMENT WEIGHT and INVENTORY WEIGHT contribute to WEIGHT PENALTY.
-> this used to be called ARMOR PENALTY insteda of WEIGHT PENALTY and is being renamed
+> this term is now standardized as WEIGHT PENALTY
 
 ## WEIGHT PENALTY increases by 2 ways:
 
