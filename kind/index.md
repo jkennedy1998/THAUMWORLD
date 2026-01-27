@@ -4,6 +4,11 @@
 KIND defines a CHARACTER’s baseline body, senses, movement, and cultural context.
 it is chosen during CHARACTER CREATION and provides defaults for multiple tracked values.
 
+## KIND perk rules
+on CHARACTER CREATION, each CHARACTER picks 2 GIFT OF KIND perks.
+each CHARACTER also picks 1 GIFT OF GREATER KIND perk.
+all FLAW OF KIND perks listed for their KIND apply automatically.
+
 ## KIND TEMPLATE
 use this template when creating a new KIND entry.
 
@@ -107,7 +112,8 @@ EXTENDED ACTION: SLEEP
 - DEX + 2 (+1 mod)
 
 ### DIET
-- omnivore
+- herba
+- carna
 
 ### TEMPERATURE RANGE
 - -1 MAG to +1 MAG
@@ -187,7 +193,8 @@ EXTENDED ACTION: SLEEP
 - STR + 2 (+1 mod)
 
 ### DIET
-- omnivore
+- herba
+- carna
 
 ### APPEARANCE
 bipedal creatures with long to medium straight or wavy hair covering most of their body. the faces, hands, and feet have little hair. most maned apes have very full eyebrows.
@@ -204,6 +211,7 @@ APSOLUTE UNIT : GIFT OF KIND
 your SIZE becomes L-, and your STR increases by 1 (stat not bonus)
 ( you punch harder, rip things apart harder, ect. )
 
+### GIFT OF GREATER KIND
 CRAFTY KIND : GIFT OF GREATER KIND
 you PEAK 1 less for the CRAFT ACTION
 ( this helps you make +1 items more often )
@@ -260,7 +268,8 @@ EXTENDED ACTION: SLEEP
 - CON + 2 (+1 mod)
 
 ### DIET
-- omnivore
+- herba
+- carna
 
 ### APPEARANCE
 bipedal creatures with short to medium curly or sometimes “fuzzy” hair covering most of their body. their face has little hair, and much more of a bald brow than the maned apes. not as bald faced as the naked apes. their long arms make them really good climbers, and adept to playing defensive.
@@ -280,6 +289,7 @@ FROM THE COLD SOUTH : GIFT OF KIND
 you can be in -1 TEMPARATURE MAG comfortably, and gain -1 reroll against all incoming POTENCTY ROLLS from sources with 
 ( FROST! ) tags
 
+### GIFT OF GREATER KIND
 CRAFTY KIND : GIFT OF GREATER KIND
 you PEAK 1 less for the CRAFT ACTION
 ( this helps you make +1 items more often )
@@ -289,3 +299,78 @@ SURVIVALISTIC FEAR : FLAW OF KIND
 when you take DAMAGE you gain 1 TAG : 
 ( SCARED : TARGET who damaged you, CR 10 )
 ( cant move towards the target in any way )
+
+---
+
+## RODENT KIND : SNOW SNOUTLING
+their GREATER KIND is the RODENT.
+
+### PARTS
+a bepedal rodent-like
+
+- HEAD : critical
+- TORSO : critical
+- LEFT ARM
+- RIGHT ARM
+- LEFT LEG
+- RIGHTLEG
+- TAIL
+
+### HEALTH
+biological creatures who repair during sleep. gain
+EXTENDED ACTION: SLEEP
+
+### AGE
+- adulthood : 15
+- decline : 30
+- death : 40
+
+### LANGUAGE
+- RODISH, vocal
+
+### SIZE
+- M-
+
+### SENSES
+- LIGHT : capable
+- AROMA : capable
+- PRESSURE : capable
+- THAUMIC : blind
+
+### SPEED
+- walk : 4
+- climb : 4 (burrow 1)
+- swim : 1
+- fly : none
+
+### STAT changes
+- STR + 2 (+1 mod)
+- CON + 2 (+1 mod)
+- DEX - 2 (-1 mod)
+
+### DIET
+- herba
+- (carbon based plants)
+
+### APPEARANCE
+short hair rodent like creatures with long snouts, thick insulating fur, strong arms and tunneling capabilities.
+
+### LORE
+snow snout lings evolved in the south most lands of THE LAND OF FOG AND SNOW, and the north most lands of THE COLD SOUTH. snow snoutlings have built vast -- sometimes temporary -- tunnel systems all across the region’s south that have been used for shelter and have even flourished into small cities in some cases.
+
+### GIFT OF KIND
+LUSH COAT : GIFT OF KIND
+-1 TEMPARATURE threshold for the low threshold and gain -1 reroll against all incoming POTENCTY ROLLS from sources with 
+( FROST! ) tags
+
+CAVE EYES : GIFT OF KIND
+your LIGHT sense gets +1 in areas darker than daylight
+
+### GIFT OF GREATER KIND
+SMELLY TIME : GIFT OF GREATER KIND
+your AROMA sense increases by 1 MAG
+
+### FLAW OF KIND
+HATRED OF THE BIG LIGHT : FLAW OF KIND
+your LIGHT sense gets -1 in areas in daylight and brighter 
+( caves, dusk, dawm, and the night are your friend )
