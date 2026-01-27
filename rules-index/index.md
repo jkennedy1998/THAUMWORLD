@@ -166,6 +166,10 @@ these are broken into sections for ease of parsing. higher sections are more bas
 > an action type, and how you get around
 <https://www.thaumworld.xyz/movement/>
 
+### kind
+> what species someone is that determines other aspects chosen in CHARACTER CREATION
+<https://www.thaumworld.xyz/kind/>
+
 ### vigor 
 > on a scale of negative 1 to infinity how alive are you?
 <https://www.thaumworld.xyz/vigor/>

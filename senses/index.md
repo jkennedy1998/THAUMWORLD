@@ -7,8 +7,20 @@ and how we can interact or hide from it!
 somtimes senses can be upgraded by tools. 
 > glasses, magic listening devices, telescopes 
 
+SENSES use MAG, and range references the DISTANCE MAG table.
+
+## falloff rule
+if you can sense clearly at DISTANCE MAG N,
+you can sense at DISTANCE MAG N+1 with obscurity.
+> obscurity means little to no detail, just a faint or mixed signal.
+
 ## light
 > sight, ultraviolet light sight, infrared sense
+
+range: DISTANCE MAG = LIGHT MAG + 1
+line of sight only. walls block light entirely.
+
+obscurity example: blurry or low contrast
 
 MAG    description of sense
 > 0	     blind. cannot see light, shapes or movement.
@@ -27,8 +39,13 @@ MAG    description of sense
 
 ---
 
-## vibration
-> hearing, touch, echholocation, and tremorsense
+## pressure
+> hearing, touch, echolocation, tremor sense
+
+range: DISTANCE MAG = PRESSURE MAG - 1
+pressure can scale through walls and floors at higher MAG.
+
+obscurity example: muffled muted or drowned out
 
 MAG    description of sense
 > 0	   no hearing or tactile vibration
@@ -50,6 +67,11 @@ MAG    description of sense
 ## aroma
 > smell, pheromones, aerosols
 
+range: DISTANCE MAG = AROMA MAG - 1
+no line of sight. aroma follows paths and currents and carries more information with MAG.
+
+obscurity example: fading or mixing scents
+
 MAG    description of sense
 > 0	   no smells 
 > 1      strong odors, smoke, musky rot, acid rain, strong humidity
@@ -67,7 +89,12 @@ MAG    description of sense
 ---
 
 ## thaumic
-> smell, pheromones, aerosols
+> sense of life and magic, noisy and colorless
+
+range: DISTANCE MAG = THAUMIC MAG
+thaumic sense gives location only, not identity. thin walls do not block it.
+
+obscurity example: too faint to see against contrasting thaum sources (like stars and your eyes at night)
 
 MAG    description of sense
 > 0	   no magic sight. that of most naked apes. 
