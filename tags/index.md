@@ -14,7 +14,7 @@ TAGs of the same type can be given multiple times, ruling for this is determined
 > a tile that is on fire deals area damage  
 > TAGS cannot gain the FIRE TAG, as it is not a META TAG
 
-see the TAG TABLE for a rundown of all the availible TAGs, or see the example below for how a TAG is formatted.
+see the TAG TABLE for a rundown of all the available TAGs, or see the example below for how a TAG is formatted.
 
 ## TAG EXAMPLE FORMATTING
 

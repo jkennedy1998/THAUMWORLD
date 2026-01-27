@@ -47,7 +47,7 @@ apish
 
 CON : 48 (-1) | STR : 46 (-2) | DEX : 58 (+4) | WIS : 44 (-3) | INT : 54 (+2) | CHA : 52 (+1)
 
-## PROFFICIENCIES, a count of how MAGNITUDE you have of the 21 different PROFFICICENCIES
+## PROFICIENCIES, a count of how MAGNITUDE you have of the 21 different PROFICIENCIES
 > a MAG 1 CHARACTER gets 4 to start. more can be bought through PERKs on the PERK TREE
 
 PAIN : here MAG 
@@ -108,8 +108,8 @@ CARRY CAPACITY : here
 > when your INVENTORY WEIGHT exceeds your CARRY CAPACITY, apply the one TAG of [ OVERENCUMBERED ] per 5 units of weight over the CARRY CAPACITY
 > [ OVERENCUMBERED ] : -1 to all MOVEMENT and +1 WEIGHT PENALTY. full rules listed in the TAG TABLE
 
-## EQUIPTMENT
-> BODY SLOTS, and their tracked armor that is equipt
+## EQUIPMENT
+> BODY SLOTS, and their tracked armor that is equipped
 
 body slot      | weight  |  desc / tags    
 head (vital)   |  -      | 
@@ -119,11 +119,11 @@ right hand     |  -      |
 left leg       |         |  cloth garbs, baggy reddish pants 
 right leg      |         |  cloth garbs, baggy reddish pants  
 
-> EQUIPTMENT WEIGHT, how much your current EQUIPT ITEMS weighs
+> EQUIPMENT WEIGHT, how much your current EQUIPPED ITEMS weighs
 > WEIGHT PENALTY : 0
 
 
-> HAND SLOTS and their tracked tools that are equipt
+> HAND SLOTS and their tracked tools that are equipped
 
 ---
 

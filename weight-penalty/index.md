@@ -1,12 +1,12 @@
 ﻿# weight-penalty
 > when your collective items slow you down
 
-EQUIPTMENT WEIGHT and INVENTORY WEIGHT contribute to WEIGHT PENALTY.
+EQUIPMENT WEIGHT and INVENTORY WEIGHT contribute to WEIGHT PENALTY.
 > this term is now standardized as WEIGHT PENALTY
 
 ## WEIGHT PENALTY increases by 2 ways:
 
-### 1 per 5 lbs of EQUIPTED ITEMs
+### 1 per 5 lbs of EQUIPPED ITEMs
 > armor and tools within body slots
 
 ### 1 per 5 lbs of WEIGHT exceeding a CHARACTER's CARRY CAPACITY within their INVENTORY

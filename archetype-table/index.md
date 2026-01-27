@@ -1,15 +1,15 @@
-﻿# archetype-table
-> a list of availible archetypes to be chosen at random within 3 buckets
+# archetype-table
+> a list of available archetypes to be chosen at random within 3 buckets
 
 ---
 
 ## START ARCHETYPE TABLE 
-> these are the availible STORY BEATS that can start a STORY. 
+> these are the available STORY BEATS that can start a STORY. 
 these add an entry point for the ACTORS in low stakes environments
 
 ### fetch-quest
 > may be triggered by asking an ALLY or CHARACTER if they need help
-an ALLY asks the ACTORS to retreive an ITEM or INFORMATION from a LOCATION
+an ALLY asks the ACTORS to retrieve an ITEM or INFORMATION from a LOCATION
 
 ### a-call-for-help
 an ALLY needs assistance with a GOAL
@@ -36,13 +36,13 @@ the second to last STORY BEAT must contain the ENEMY
 an ALLY needs to be escorted to a LOCATION either permanently or temporarily
 the ALLY has a GOAL related to reaching the LOCATION
 the ALLY may have a payload of LOOT to bring to the LOCATION
-the ALLY is not equipt to deal with BARRIERs or ENEMYs on their own
+the ALLY is not equipped to deal with BARRIERs or ENEMYs on their own
 
 
 ---
 
 ## BREATHING ARCHETYPE TABLE 
-> these are the availible STORY BEATS that happen between the STARTING and the ENDING STORY BEATS
+> these are the available STORY BEATS that happen between the STARTING and the ENDING STORY BEATS
 
 ### protected-loot
 LOOT is seen protected by an ENEMY who has a GOAL related to the LOOT
@@ -94,7 +94,7 @@ if an ALLY or ENEMY is present, they have a GOAL related to the LOCATION
 ---
 
 ## ENDING ARCHETYPE TABLE
-> these are the availible STORY BEATS that end a STORY with a return. this is after the big climax
+> these are the available STORY BEATS that end a STORY with a return. this is after the big climax
 
 ### return-to-ally
 if there was not an ALLY in the STORY START, find another ENDING ARCHETYPE

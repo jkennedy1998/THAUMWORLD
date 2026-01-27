@@ -53,7 +53,7 @@ INTELEGENCE : 54  +2 bonus
 
 CHARISMA : 52  +1 bonus
 
-## PROFFICIENCIES, a count of how MAGNITUDE you have of the 21 different PROFFICICENCIES
+## PROFICIENCIES, a count of how MAGNITUDE you have of the 21 different PROFICIENCIES
 
 PAIN :  0
 
@@ -144,7 +144,7 @@ COMMUNICATION :  0
 > list items here in this format :
 
 telescope mag2    |  1 weight  | [ telescopic ]
-> use gives me +1 light sense when equipt for long distances, but does not improve my spectrum range
+> use gives me +1 light sense when equipped for long distances, but does not improve my spectrum range
 
 a cute leather coat mag2    |  1 weight  | [ 1 physical armor ]
 > +1 armor for my chest body slot, 1 physical damage reduction
@@ -152,7 +152,7 @@ a cute leather coat mag2    |  1 weight  | [ 1 physical armor ]
 a single white button down blouse : Mag 0 item
 a single pair of baggy redish pants : Mag 0
 
-## EQUIPTMENT
+## EQUIPMENT
 
 head (vital) |  -  | -
 chest (vital) |  a cute leather coat  | 1 physical damage reduction
@@ -161,14 +161,14 @@ right hand |  -  | -
 left leg |  cloth garbs, baggy reddish pants  | -
 right leg |  cloth garbs, baggy reddish pants  | -
 
-> EQUIPTMENT WEIGHT, how much your current EQUIPT ITEMS weighs
+> EQUIPMENT WEIGHT, how much your current EQUIPPED ITEMS weighs
 
 > CARRY CAPACITY : from equation
 
 > WEIGHT PENALTY : 0
 
 
-> HAND SLOTS and their tracked tools that are equipt
+> HAND SLOTS and their tracked tools that are equipped
 
 ---
 

@@ -15,7 +15,7 @@ TEMPERATUREs that are below a CHARACTER's low TEMPERATURE RANGE get the TAG [ HY
 TEMPERATUREs that are above a CHARACTER's high TEMPERATURE RANGE get the TAG [ HEATSTROKE ]
 
 ## prolonged exposure
-> how long it takes for a CHARACTER to get a negative temparature TAG
+> how long it takes for a CHARACTER to get a negative temperature TAG
 
 DELTA represents how far outside the safe range something is.
 > the higher the DELTA the more quicker the negative effects occur

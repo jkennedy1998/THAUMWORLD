@@ -4,7 +4,7 @@
 a STORY BEAT is a point in a STORY where the ACTOR's movement is paced by CONTENT.
 a STORY BEATs ARCHETYPE has a denoted CONTENT TABLE. 
 CONTENT is chosen at random from the appropriate CONTENT TABLE
-> see the content-table page for a list of availible content to be grabbed at random
+> see the content-table page for a list of available content to be grabbed at random
 
 STORY BEATs have DISSONANCE MAG, and HARMONY MAG
 > a budget system to add positive and negative modifiers to the CONTENT of the STORY BEAT
@@ -32,7 +32,7 @@ ARCHETYPE : the type of STORY BEAT this is, defining the following
 > BREATHING : every point in between the STARTING and the ENDING events.
 > ENDING : a point of events wrapping up the journey. NECCESSARY
 
-you can find all the availible ARCHETYPEs on the ARCHETYPE TABLE, as well as the CONTENT TYPES. 
+you can find all the available ARCHETYPEs on the ARCHETYPE TABLE, as well as the CONTENT TYPES. 
 
 ## the length of a STORY BEAT
 the STORY has how long the STORY should last, and how many STORY BEATs there should be.

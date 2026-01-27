@@ -32,9 +32,9 @@ a CHARACTER has the following. each item is represented on their CHARACTER SHEET
 
 > STATISTICS, six general measurements CONSTITUTION, STRENGTH, DEXTERITY, WISDOM, INTELEGENCE, CHARISMA from KIND and CHARACTER CREATION
 
-> PROFFICIENCIES, a count of how MAGNITUDE you have of the 21 different PROFFICICENCIES chosen in CHARACTER CREATION
+> PROFICIENCIES, a count of how MAGNITUDE you have of the 21 different PROFICIENCIES chosen in CHARACTER CREATION
 
-> SEX from their KIND's availible SEXes ( usually male or female ) chosen in CHARACTER CREATION
+> SEX from their KIND's available SEXes ( usually male or female ) chosen in CHARACTER CREATION
 
 > SIZE measureed in MAGNITUDE from KIND
 
@@ -62,17 +62,17 @@ a CHARACTER has the following. each item is represented on their CHARACTER SHEET
 
 > THAUM REGEN, how much thaum you regen per SLEEP or REPAIR starting at 1
 
-> EQUIPTMENT WEIGHT, how much your current EQUIPT ITEMS weighs
+> EQUIPMENT WEIGHT, how much your current EQUIPPED ITEMS weighs
 
 > INVENTORY, a list of ITEMS which have on your CHARACTER with names, weight, and tags
 
-> INVENTORY WEIGHT, the weight of all your INVENTORY. includes EQUIPT ITEMS
+> INVENTORY WEIGHT, the weight of all your INVENTORY. includes EQUIPPED ITEMS
 
 > WEIGHT PENALTY, a measurement of your weight against your ability to dodge getting hit starting at 0
 
-> BODY SLOTS, where ARMOR can be EQUIPT from KIND
+> BODY SLOTS, where ARMOR can be EQUIPPED from KIND
 
-> HAND SLOTS, like body slots but you can also EQUIPT TOOLS from KIND
+> HAND SLOTS, like body slots but you can also EQUIP TOOLS from KIND
 
 > TAGS, a list of what TAGs are currently on your character starting with none but will get some through CHARACTER CREATION
 

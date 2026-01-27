@@ -1,5 +1,5 @@
-﻿# dice-rolls-n-nat
-> defining uncenrtainty
+# dice-rolls-n-nat
+> defining uncertainty
 
 the DICE used are for ROLLS are :
 - D2 

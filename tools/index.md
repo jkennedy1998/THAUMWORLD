@@ -1,7 +1,7 @@
 ﻿# tools
 > items that that empower actions through tags
 
-TOOLS are just ITEMS that have a META TAG of TOOL and can be EQUIPT in your HANDs.
+TOOLS are just ITEMS that have a META TAG of TOOL and can be EQUIPPED in your HANDs.
 > alchemy sets, lockpicks, weapons, and even your hands.
 
 TOOLS may list ACTION subtypes that add specific rules.
@@ -13,5 +13,5 @@ If you do not meet the REQUIREMENTS of the TOOL, the tool's MAG counts as improv
 TOOLS have PROFICIENCies that are stated and show what PROFS and STATs apply to the TOOL's ACTION subtype rulings.
 this applies for both RESULT and POTENCY ROLLs.
 
-TOOL WEIGHT contributes to WEIGHT PENALTY when EQUIPTED.
+TOOL WEIGHT contributes to WEIGHT PENALTY when EQUIPPED.
 

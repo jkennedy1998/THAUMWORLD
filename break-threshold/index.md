@@ -13,4 +13,4 @@ The number of BROKEN TAGS does however.
 > the object still exists, but it stops working to its full potential. see the break tag for more info.
 
 BREAK THRESHOLD doesnt have to be HEALTH DAMAGE, it could be any CONDITION.
-> like walking on a tile, getting a tile above a temparature, or blundering with a tool
+> like walking on a tile, getting a tile above a temperature, or blundering with a tool

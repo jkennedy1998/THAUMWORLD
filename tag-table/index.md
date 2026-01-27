@@ -11,8 +11,8 @@ see the TAG page for more information on what a TAG is
 If an existing TAG does not quite fit a situation,
 new TAGS can be created using similar structure to existing TAGS.
 
-> you can use the [ BALLANCE : X ] tag to shift the ballance of powerful tags up by 1. 
-> this changes how tags can be ballanced during crafting, creation of new items, or weighed in ballancing systems.
+> you can use the [ BALLANCE : X ] tag to shift the balance of powerful tags up by 1. 
+> this changes how tags can be balanced during crafting, creation of new items, or weighed in balancing systems.
 
 ---
 
@@ -94,7 +94,7 @@ TILE : -
 
 ### [ TOOL ]
 > PROFICIENCY : decided by TAG this is on
-if something can be EQUIPT on a HAND SLOT as a TOOL
+if something can be EQUIPPED on a HAND SLOT as a TOOL
 
 CHARACTER : 
 > this could happen if a larger creature grabs you like an item, and uses you to preform an action.
@@ -102,7 +102,7 @@ CHARACTER :
 > attack damage that your body does to something also applies to you, effecting your health instead giving you stacks of break
 
 ITEM : 
-> the ITEM can be EQUIPT in a HAND and used like a TOOL for ACTIONS to be specified on the TAG this is on
+> the ITEM can be EQUIPPED in a HAND and used like a TOOL for ACTIONS to be specified on the TAG this is on
 > this ITEM gains the default TARGETER GLYPH set by the TAG this is on.
 
 TILE : -
@@ -223,11 +223,11 @@ TILE :
 > this is set from multiple sources, usually from surprises or intense senses
 
 CHARACTER : 
-> you cannot EQUIPT this item by normal means if the TAG MAG of BROKEN is greater or equal to the ITEM MAG
+> you cannot EQUIP this item by normal means if the TAG MAG of BROKEN is greater or equal to the ITEM MAG
 > on a passed CRAFT RESULT ROLL : (CR 10) any CHARACTER can remove 1 TAGMAG from any TARGET
 
 ITEM : 
-> you cannot EQUIPT this item by normal means if the TAG MAG of BROKEN is greater or equal to the ITEM MAG
+> you cannot EQUIP this item by normal means if the TAG MAG of BROKEN is greater or equal to the ITEM MAG
 > decreases functional MAG by 1 per TAG MAG of BROKEN -- including for DAMAGE, any custom TAGs, DAMAGE negation, or for reapairing the ITEM
 > on a passed CRAFT RESULT ROLL : (CR 10 + ITEM MAG) any CHARACTER can remove 1 TAGMAG of BROKEN from any ITEM
 

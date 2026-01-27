@@ -103,4 +103,4 @@ HARMONY MAG SHOP :
 > the LOCATION is a natural resting place for other CHARACTERS in the world
 DISONANCE MAG SHOP :
 > the LOCATION is more remote (1 WORLD TILE per MAG)
-> the LOCATION is more dangerous (im temparature MAG or an introduced environmental hazards per MAG)
+> the LOCATION is more dangerous (im temperature MAG or an introduced environmental hazards per MAG)

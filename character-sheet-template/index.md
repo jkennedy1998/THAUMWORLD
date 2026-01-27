@@ -46,7 +46,7 @@ here
 
 CON : here | STR : here | DEX : here | WIS : here | INT : here | CHA : here
 
-## PROFFICIENCIES, a count of how MAGNITUDE you have of the 21 different PROFFICICENCIES
+## PROFICIENCIES, a count of how MAGNITUDE you have of the 21 different PROFICIENCIES
 > a MAG 1 CHARACTER gets 4 to start. more can be bought through PERKs on the PERK TREE
 
 PAIN : here MAG 
@@ -106,16 +106,16 @@ CARRY CAPACITY : here
 > when your INVENTORY WEIGHT exceeds your CARRY CAPACITY, apply the one TAG of [ OVERENCUMBERED ] per 5 units of weight over the CARRY CAPACITY
 > [ OVERENCUMBERED ] : -1 to all MOVEMENT and +1 WEIGHT PENALTY. full rules listed in the TAG TABLE
 
-## EQUIPTMENT
-> BODY SLOTS, and their tracked armor that is equipt
+## EQUIPMENT
+> BODY SLOTS, and their tracked armor that is equipped
 
-body slot name here  |  item equipt  | any tags this body slot has
+body slot name here  |  item equipped  | any tags this body slot has
 
-> EQUIPTMENT WEIGHT, how much your current EQUIPT ITEMS weighs
+> EQUIPMENT WEIGHT, how much your current EQUIPPED ITEMS weighs
 > WEIGHT PENALTY : 0
 
 
-> HAND SLOTS and their tracked tools that are equipt
+> HAND SLOTS and their tracked tools that are equipped
 
 ---
 

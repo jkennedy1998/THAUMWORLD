@@ -3,7 +3,7 @@
 
 RESULT ROLLs always use a D20.
 they represent a CHARACTER’s attempt at an ACTION that might fail.
-> result rolls are not neccessary for all actions, like reading signs, opening doors, or speaking
+> result rolls are not necessary for all actions, like reading signs, opening doors, or speaking
 
 > aiming and firing a bow
 > climbing a slippery wall

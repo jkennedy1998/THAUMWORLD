@@ -2,7 +2,7 @@
 > a list of all the pages of rules and guidelines available for THAUMWORLD
 
 they are listed under the extact keyword that titles their folder and index.md file.
-these are broken into sections for ease of parsing. higher sections are more base systems of the game, while lower sections are more specific rulings or uncommon but neccessary pages.
+these are broken into sections for ease of parsing. higher sections are more base systems of the game, while lower sections are more specific rulings or uncommon but necessary pages.
 
 ---
 ## meta-pages
@@ -29,7 +29,7 @@ these are broken into sections for ease of parsing. higher sections are more bas
 <https://www.thaumworld.xyz/stats-n-bonuses/>
 
 ### magnitude
-> rolls, damage, hardness, conductivity, weight, size, temparature, speed, and time at scale
+> rolls, damage, hardness, conductivity, weight, size, temperature, speed, and time at scale
 <https://www.thaumworld.xyz/magnitude/>
 
 ### dice-rolls-n-nat
@@ -212,7 +212,7 @@ these are broken into sections for ease of parsing. higher sections are more bas
 <https://www.thaumworld.xyz/death/>
 
 ### body-slots-n-equipt
-> how you equipt items
+> how you equip items
 <https://www.thaumworld.xyz/body-slots-n-equipt/>
 
 ### weight-penalty

@@ -1,11 +1,11 @@
 ﻿# items-n-inventory
 > for picking things up
 
-ITEMS exist as definitions so they can be TARGETs, be EQUIPT within BODY SLOTs, be picked up into an INVENTORY, and scale with MAGNITUDE.
+ITEMS exist as definitions so they can be TARGETs, be EQUIPPED within BODY SLOTs, be picked up into an INVENTORY, and scale with MAGNITUDE.
 
 ITEM MAG determines how powerful an ITEM is in a general sense.
 > scales damage, potency, crafting output, and effects
-> for ballancing items, MAG can be used as a budget and damage can be subtracted for more utility
+> for balancing items, MAG can be used as a budget and damage can be subtracted for more utility
 
 ITEMS can have TAGs that modify their behavior.
 > an armor tag, a tool tag, conductive : x, etc.
@@ -19,13 +19,13 @@ it factors in STRENGTH, and BRAWN.
 > the amount of volume of items is unlimited currrently
 
 CARRY CAPACITY is how much weight a CHARACTER can carry on themselves.
-this includes all items EQUIPT on your BODY SLOTs.
-ITEMs have a WEIGHT always listed, that contributes to WEIGHT PENALTY through being equipt as ARMOR or by being in your INVENTORY and above your CARRY CAPACITY
+this includes all items EQUIPPED on your BODY SLOTs.
+ITEMs have a WEIGHT always listed, that contributes to WEIGHT PENALTY through being equipped as ARMOR or by being in your INVENTORY and above your CARRY CAPACITY
 
 ---
 
-## creating new items and ballancing rules
-> this section will probably move later into a ballancing page.
+## creating new items and balancing rules
+> this section will probably move later into a balancing page.
 
 When creating new ITEMS, consider the following:
 use MAG of an ITEM to generalize a boduget for how many TAGs or MAGs you can add to an ITEM
@@ -106,7 +106,7 @@ SIZE : -1 to 1 ( a grape to a chestplate )
 > very very small or large things cost MAG
 
 TEMPARATURE : default is the TEMPARATURE of the current WORLD TILE
-> you could ballance hot food in cold places this way
+> you could balance hot food in cold places this way
 
 DISTACE : the range of -1 to 1 ( a few inches to the adjacent TILE )
 > things that reach farther than this cost MAG

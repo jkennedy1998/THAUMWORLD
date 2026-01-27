@@ -1,9 +1,9 @@
-﻿# magnitude
-> rolls, damage, hardness, conductivity, weight, size, temparature, speed, and time at scale
+# magnitude
+> rolls, damage, hardness, conductivity, weight, size, temperature, speed, and time at scale
 
 MAGNITUDE, or MAG is a representation of potency, power, and scale. 
 It is used to narrate a power measurements between potions, weapons, spells and all game mechanics.
-> when ballancing new game things, MAG can be thought of as a token that can purchase new abiltiies. 
+> when balancing new game things, MAG can be thought of as a token that can purchase new abiltiies. 
 > a mag 2 monster is going to have 1 more thing than a mag 1 monster 
 > same with a sword, a potion, spell, monster, or anything. 
 
@@ -91,7 +91,7 @@ represented on the ROLL MAGs section above
 MAG   description of comparable magnitudes
 > -2    ephemeral or naturally dissipating
 
-> -1    paper, cloth, thin leaves, non compacted snow
+> -1    dust, ash, cobwebs, loose snow
 
 > 0     paper, cloth, thin leaves, non compacted snow
 
