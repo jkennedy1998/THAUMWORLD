@@ -23,5 +23,5 @@ POTENCY ROLL DICE:
 > correlates with MAG
 
 POTENCY ROLL effectors:
-> + relevant PROFICIENCY MAG
+> + 1 PROFICIENCY MAGNITUDE (not the roll, just a single bonus if its really relevant.)
 > + infinite EFFECTORS

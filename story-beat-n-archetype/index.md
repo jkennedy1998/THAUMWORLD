@@ -2,9 +2,9 @@
 > an event that happens along a story
 
 a STORY BEAT is a point in a STORY where the ACTOR's movement is paced by CONTENT.
-a STORY BEATs ARCHETYPE has a denoted CONTENT TALBE. 
+a STORY BEATs ARCHETYPE has a denoted CONTENT TABLE. 
 CONTENT is chosen at random from the appropriate CONTENT TABLE
-> see the story-beat-content page for a list of availible content to be grabbed at random
+> see the content-table page for a list of availible content to be grabbed at random
 
 STORY BEATs have DISSONANCE MAG, and HARMONY MAG
 > a budget system to add positive and negative modifiers to the CONTENT of the STORY BEAT

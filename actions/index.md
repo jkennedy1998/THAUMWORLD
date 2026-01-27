@@ -16,6 +16,8 @@ EXTENDED ACTIONS take around 2 hours.
 
 FULL ACTIONS use normal equations for ROLLs.
 PARTIAL ACTIONS only use negative changes to ROLLs.
+ACTIONS coming from an CHARACTER using a PARTIAL ACTION cannot contribute any modifiers, and use only NAT ROLLS for derriving roll outcomes.
+this applies to RESULT and POTENCY ROLLs.
 
 ---
 
