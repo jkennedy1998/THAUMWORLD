@@ -20,4 +20,11 @@ NAT refers to a natural landing dice face.
 >a NAT20 is a D20 that has landed on 20, regardless of EFFECTORS
 
 there are two ROLL types in this game:
-RESULT ROLLs and POTENCY ROLLs. identity.
+RESULT ROLLs and POTENCY ROLLs.
+
+RESULT ROLLs determine if an ACTION succeeds.
+POTENCY ROLLs determine how strong that ACTION is.
+
+see the full rules here:
+<https://www.thaumworld.xyz/result-rolls/>
+<https://www.thaumworld.xyz/potency-rolls/>
