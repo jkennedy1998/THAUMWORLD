@@ -141,3 +141,151 @@ LONG WAY FROM HOME : FLAW OF KIND
 you are gain -1 REROLL for
 RESULT and POTENCY rolls, favored against you
 ( getting rid of disease, not getting disease, taking damage from )
+
+---
+
+## APE KIND : MANED APES
+
+### PARTS
+same amount of parts as the naked apes. neat!
+
+- HEAD : critical
+- TORSO : critical
+- LEFT ARM
+- RIGHT ARM
+- LEFT LEG
+- RIGHTLEG
+
+### HEALTH
+biological creatures who repair during sleep. gain
+EXTENDED ACTION: SLEEP
+
+### AGE
+- adulthood : 20
+- decline : 35
+- death : 55
+
+### LANGUAGE
+- APISH, vocal
+
+### SIZE
+- M+
+
+### SENSES
+- LIGHT : capable
+- AROMA : impaired
+- PRESSURE : capable
+- THAUMIC : blind
+
+### SPEED
+- walk : 5
+- climb : 3
+- swim : 1
+- fly : none
+
+### STAT changes
+- STR + 2 (+1 mod)
+
+### DIET
+- omnivore
+
+### APPEARANCE
+bipedal creatures with long to medium straight or wavy hair covering most of their body. the faces, hands, and feet have little hair. most maned apes have very full eyebrows.
+
+### LORE
+maned apes settled in the central western mountains of THE LAND OF FOG AND SNOW, where rich veins of black volcanic soil allows for super fertile lands to farm. many of the roads in these lands were paved by MANED APES.
+
+### GIFT OF KIND
+THE FIGHTING APES : GIFT OF KIND
+your HANDS get +1 MAG to POTENCY for ACTIONS using STR
+( you punch harder, dig harder, rip things apart harder )
+
+APSOLUTE UNIT : GIFT OF KIND
+your SIZE becomes L-, and your STR increases by 1 (stat not bonus)
+( you punch harder, rip things apart harder, ect. )
+
+CRAFTY KIND : GIFT OF GREATER KIND
+you PEAK 1 less for the CRAFT ACTION
+( this helps you make +1 items more often )
+
+### FLAW OF KIND
+SURVIVALISTIC RAGE : FLAW OF KIND
+when you take DAMAGE you gain 1 TAG : 
+( AGGRO’D : TARGET who damaged you, CR 10 )
+( +1 reroll to RESULT ROLLS for those who are not the target )
+
+---
+
+## APE KIND : WOOLY APE
+
+### PARTS
+a bepedal, tail having ape
+
+- HEAD : critical
+- TORSO : critical
+- LEFT ARM
+- RIGHT ARM
+- LEFT LEG
+- RIGHTLEG
+- TAIL
+
+### HEALTH
+biological creatures who repair during sleep. gain
+EXTENDED ACTION: SLEEP
+
+### AGE
+- adulthood : 25
+- decline : 40
+- death : 65
+
+### LANGUAGE
+- APISH, vocal
+
+### SIZE
+- M+
+
+### SENSES
+- LIGHT : capable
+- AROMA : impaired
+- PRESSURE : capable
+- THAUMIC : blind
+
+### SPEED
+- walk : 5
+- climb : 4
+- swim : 3
+- fly : none
+
+### STAT changes
+- CON + 2 (+1 mod)
+
+### DIET
+- omnivore
+
+### APPEARANCE
+bipedal creatures with short to medium curly or sometimes “fuzzy” hair covering most of their body. their face has little hair, and much more of a bald brow than the maned apes. not as bald faced as the naked apes. their long arms make them really good climbers, and adept to playing defensive.
+
+### LORE
+the wooly apes settled in the south east parts of THE LAND OF FOG AND SNOW and are live among the snow snoutlings and the snow-bore hornlings.
+
+### GIFT OF KIND
+REALLY LONG ARMS : GIFT OF KIND
+you can REACH +1 tiles away  ( changes battles for you a bit )
+
+NATURAL CLIMBER : GIFT OF KIND
+CLIMBING counts as WALKING  
+( effects sleep, getting knocked, and any rules written for walking )
+
+FROM THE COLD SOUTH : GIFT OF KIND
+you can be in -1 TEMPARATURE MAG comfortably, and gain -1 reroll against all incoming POTENCTY ROLLS from sources with 
+( FROST! ) tags
+
+CRAFTY KIND : GIFT OF GREATER KIND
+you PEAK 1 less for the CRAFT ACTION
+( this helps you make +1 items more often )
+
+### FLAW OF KIND
+SURVIVALISTIC FEAR : FLAW OF KIND
+when you take DAMAGE you gain 1 TAG : 
+( SCARED : TARGET who damaged you, CR 10 )
+( cant move towards the target in any way )
