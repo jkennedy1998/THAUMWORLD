@@ -27,6 +27,9 @@ A CHARACTER does something minimal to a TARGET.
 
 **cost:** PARTIAL  
 
+**valid targets:**  
+CHARACTER, BODY SLOT, ITEM, TILE
+
 **result roll (challenge rating):**  
 varies per TARGET  
 
@@ -49,6 +52,9 @@ A CHARACTER inflicts a TARGET with harm.
 > stabbing, punching, fireballing, magically melting someone  
 
 **cost:** FULL / PARTIAL  
+
+**valid targets:**  
+CHARACTER, BODY SLOT, ITEM, TILE
 
 **result roll (challenge rating):**  
 TARGET’s EVASION  
@@ -73,6 +79,9 @@ A CHARACTER assists another ACTION by contributing POTENCY.
 
 **cost:** FULL / PARTIAL  
 
+**valid targets:**  
+CHARACTER (not yourself)
+
 **result roll (challenge rating):**  
 –  
 
@@ -95,6 +104,9 @@ A CHARACTER increases the EVASION of a TARGET.
 > shielding yourself, guarding an ally  
 
 **cost:** FULL / PARTIAL  
+
+**valid targets:**  
+CHARACTER
 
 **result roll (challenge rating):**  
 –  
@@ -119,6 +131,9 @@ A CHARACTER restrains or controls a TARGET physically.
 
 **cost:** FULL / PARTIAL  
 
+**valid targets:**  
+CHARACTER
+
 **result roll (challenge rating):**  
 10 + TARGET’s STR BONUS + BRAWN MAG − size delta  
 
@@ -142,6 +157,9 @@ A CHARACTER studies a TARGET using a PROFICIENCY.
 
 **cost:** FULL / PARTIAL  
 
+**valid targets:**  
+CHARACTER, BODY SLOT, ITEM, TILE, REGION TILE, WORLD TILE
+
 **result roll (challenge rating):**  
 varies for TARGETs trying to hide  
 
@@ -164,6 +182,9 @@ A CHARACTER communicates information or intent.
 > giving directions in battle, taunting, bartering  
 
 **cost:** FULL / PARTIAL  
+
+**valid targets:**  
+CHARACTER, REGION TILE
 
 **result roll (challenge rating):**  
 –  
@@ -189,6 +210,9 @@ A CHARACTER focuses on avoiding danger.
 
 **cost:** FULL / PARTIAL  
 
+**valid targets:**  
+CHARACTER (self)
+
 **result roll (challenge rating):**  
 –  
 
@@ -212,6 +236,9 @@ A CHARACTER creates an ITEM from materials.
 
 **cost:** EXTENDED + ITEM(s)  
 
+**valid targets:**  
+ITEM (crafted item)
+
 **result roll (challenge rating):**  
 varies per recipe  
 
@@ -234,6 +261,9 @@ An organic CHARACTER rests to recover.
 > sleeping, hibernation, stasis states  
 
 **cost:** EXTENDED + 1 optional VIGOR  
+
+**valid targets:**  
+CHARACTER (self)
 
 **result roll (challenge rating):**  
 – (varies when diseased)  
@@ -259,6 +289,9 @@ A mechanical CHARACTER restores function.
 
 **cost:** EXTENDED + 1 optional VIGOR  
 
+**valid targets:**  
+CHARACTER (self), BODY SLOT
+
 **result roll (challenge rating):**  
 – (varies for broken parts)  
 
@@ -283,6 +316,9 @@ A CHARACTER spends time changing position.
 
 **cost:** none / FULL / EXTENDED  
 
+**valid targets:**  
+TILE (TIMED EVENT), REGION TILE or WORLD TILE (EXTENDED)
+
 **result roll (challenge rating):**  
 –  
 
@@ -305,6 +341,9 @@ A CHARACTER performs general labor.
 > service jobs,  large scale crafting, researching, updating spell slots  
 
 **cost:** EXTENDED  
+
+**valid targets:**  
+ITEM, TILE, REGION TILE
 
 **result roll (challenge rating):**  
 varies per job  
@@ -329,6 +368,9 @@ A CHARACTER secures and watches an AREA.
 
 **cost:** EXTENDED  
 
+**valid targets:**  
+TILE, REGION TILE, WORLD TILE
+
 **result roll (challenge rating):**  
 –  
 
@@ -351,6 +393,9 @@ A CHARACTER delays an ACTION until a CONDITION occurs.
 > “my CHARACTER HOLDS a FULL ATTACK on the DRAGON’s MOUTH until it opens again.”  
 
 **cost:** FULL / PARTIAL  
+
+**valid targets:**  
+inherits from the held ACTION
 
 **result roll (challenge rating):**  
 –  

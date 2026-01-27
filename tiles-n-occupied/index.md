@@ -7,6 +7,9 @@ within TIMED EVENTS.
 
 TILES are about 2.5 feet wide.
 
+REGION TILE is a narrative encounter space like a cul-de-sac, a battle map, or a large room in a dungeon.
+> it sits between TILE and WORLD TILE scale
+
 A CHARACTER is always on atleast 1 TILE in some sense.
 > even if they don't occupy it
 

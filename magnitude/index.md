@@ -257,6 +257,8 @@ MAG     description of comparable magnitudes
 > how far something is
 an amount of a space between two points in space, often used as a range
 
+REGION TILE is a narrative encounter space like a cul-de-sac, a battle map, or a large room in a dungeon.
+
 MAG     description of comparable magnitudes
 > -2    pinpoint distance
 
@@ -276,9 +278,9 @@ MAG     description of comparable magnitudes
 
 >  6    100 tiles away
 
->  7    300 tiles away
+>  7    300 tiles away / within 1 REGION TILE
 
->  8    1,000 tiles away
+>  8    1,000 tiles away / 1 REGION TILE away
 
 >  9    3,000 tiles away / within a WORLD TILE
 

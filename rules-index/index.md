@@ -145,6 +145,10 @@ these are broken into sections for ease of parsing. higher sections are more bas
 > the world as a grid of voxels
 <https://www.thaumworld.xyz/tiles-n-occupied/>
 
+### region-tile
+> a narrative encounter space
+<https://www.thaumworld.xyz/region-tile/>
+
 ### world-tiles
 > like tiles but for moving around large regions instead of tight spaces
 <https://www.thaumworld.xyz/world-tiles/>
@@ -165,6 +169,10 @@ these are broken into sections for ease of parsing. higher sections are more bas
 ### movement
 > an action type, and how you get around
 <https://www.thaumworld.xyz/movement/>
+
+### target
+> what rules can point at
+<https://www.thaumworld.xyz/target/>
 
 ### kind
 > what species someone is that determines other aspects chosen in CHARACTER CREATION
